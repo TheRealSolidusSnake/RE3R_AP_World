@@ -7,10 +7,10 @@ An Archipelago (AP) randomizer world for Resident Evil 3 Remake. Designed for us
 - You can find progression if that setting is set to true, fair warning.
 
 ## RE3R Archipelago Client
-Grab the latest client here: https://github.com/dontjoome/RE3R_AP_Client/
+Grab the latest client here: https://github.com/TheRealSolidusSnake/RE3R_AP_Client/
 
 ## How to get setup, generate and play an RE3R randomized world
-Follow the visual setup guide here: https://dontjoome.github.io/RE3R_AP_SetupGuide/
+Follow the visual setup guide here: https://TheRealSolidusSnake.github.io/RE3R_AP_SetupGuide/
 
 ## What scenario/difficulty does this support?
 All scenarios are currently supported.<br />

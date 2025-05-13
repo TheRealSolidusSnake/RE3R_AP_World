@@ -1,0 +1,144 @@
+[
+    { 
+        "name": "Downtown - Subway Station", 
+        "location_id": 4, 
+        "map_id": 134, 
+        "player_position": [-118.12, 0.0, -96.67], 
+        "item_object": "0201_sm41_000_Typewriter01A_00_control" 
+    },
+	{ 
+        "name": "Downtown - Donut Shop", 
+        "location_id": 4, 
+        "map_id": 167, 
+        "player_position": [-144.62, -3.0, -128.65], 
+        "item_object": "0234_sm41_000_Typewriter01A_00_control" 
+    },
+	{ 
+        "name": "Downtown - Tool Shop", 
+        "location_id": 4, 
+        "map_id": 154, 
+        "player_position": [-82.7, 0.0, -159.51], 
+        "item_object": "0221_sm41_000_Typewriter01A_00_control" 
+    },
+	{ 
+        "name": "Downtown - Control Room", 
+        "location_id": 4, 
+        "map_id": 200, 
+        "player_position": [-74.58, 4.0, -198.71], 
+        "item_object": "0404_sm41_000_Typewriter01A_00_control",
+		"line_break": true
+    },
+	
+	{ 
+        "name": "Sewer - Manager's Office", 
+        "location_id": 4, 
+        "map_id": 208, 
+        "player_position": [-108.32, -9.0, -54.39], 
+        "item_object": "0603_sm41_000_Typewriter01A_00_control" 
+    },
+	{ 
+        "name": "Sewer - South Office", 
+        "location_id": 4, 
+        "map_id": 214, 
+        "player_position": [-126.38, -16.0, 3.84], 
+        "item_object": "0609_sm41_000_Typewriter01A_00_control"	
+    },
+	
+	{ 
+        "name": "Demolition Site - Storage", 
+        "location_id": 4, 
+        "map_id": 232, 
+        "player_position": [-129.45, 0.0, -35.59], 
+        "item_object": "0706_sm41_000_Typewriter01A_00_control"
+    },
+	{ 
+        "name": "Demolition Site - Top Floor", 
+        "location_id": 4, 
+        "map_id": 230, 
+        "player_position": [-147.96, 32.0, -36.21], 
+        "item_object": "0704_sm41_000_Typewriter01A_00_control"		
+    },
+	{ 
+        "name": "Demolition Site - Gun Shop", 
+        "location_id": 4, 
+        "map_id": 124, 
+        "player_position": [-12.83, 0.01, -74.54], 
+        "item_object": "0103_sm41_000_Typewriter01A_00_control",
+        "line_break": true
+    },
+	
+	{ 
+        "name": "RPD - Main Lobby", 
+        "location_id": 3, 
+        "map_id": 30, 
+        "player_position": [2.88, 0.02, 0.01], 
+        "item_object": "Typewriter_2_1_005_control"
+    },
+	{ 
+        "name": "RPD - Darkroom", 
+        "location_id": 3, 
+        "map_id": 44, 
+        "player_position": [-14.59, 0.0, -17.11], 
+        "item_object": "Typewriter_2_1_002_control"
+    },
+	
+	{ 
+        "name": "Clocktower - Shelter", 
+        "location_id": 5, 
+        "map_id": 238, 
+        "player_position": [-121.48, -9.0, -374.38], 
+        "item_object": "0802_sm41_000_Typewriter01A_00_control"		
+    },
+	
+	{ 
+        "name": "Hospital - Makeshift Sickroom", 
+        "location_id": 6, 
+        "map_id": 243, 
+        "player_position": [0.43, 6.0, -535.45], 
+        "item_object": "sm41_000_Typewriter01A_4_0_00_control"		
+    },
+	{ 
+        "name": "Hospital - Records Room", 
+        "location_id": 6, 
+        "map_id": 258, 
+        "player_position": [-2.78, 9.5, -580.02], 
+        "item_object": "sm41_000_Typewriter01A_4_0_01_control"		
+    },
+	{ 
+        "name": "Hospital - Shipping Office", 
+        "location_id": 14, 
+        "map_id": 299, 
+        "player_position": [22.76, -63.48, -589.75], 
+        "item_object": "sm41_000_Typewriter01A_4_2_01_control",
+        "line_break": true		
+    },
+	{ 
+        "name": "Hospital - Surveillance Room", 
+        "location_id": 14, 
+        "map_id": 298, 
+        "player_position": [11.47, -62.99, -604.88], 
+        "item_object": "sm41_000_Typewriter01A_4_2_02_control"		
+    },
+	
+	{ 
+        "name": "NEST 2 - Storage", 
+        "location_id": 13, 
+        "map_id": 305, 
+        "player_position": [-35.76, -64.5, -619.63], 
+        "item_object": "0102_sm41_000_Typewriter01A_00_control"	
+    },
+	{ 
+        "name": "NEST 2 - Worker's Break Room", 
+        "location_id": 13, 
+        "map_id": 317, 
+        "player_position": [-74.33, -60.0, -652.55], 
+        "item_object": "0202_sm41_000_Typewriter01A_00_control"	
+    },
+	{ 
+        "name": "NEST 2 - Staff Break Room", 
+        "location_id": 13, 
+        "map_id": 320, 
+        "player_position": [-134.95, -68.0, -684.47], 
+        "item_object": "0302_sm41_000_Typewriter01A_00_control"	
+    }
+]

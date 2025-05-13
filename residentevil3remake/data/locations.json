@@ -1,0 +1,4334 @@
+[
+    {
+        "name": "By Ticket Gate 1",
+        "region": "Subway Station",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001_gherb_01",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Ticket Gate 2",
+        "region": "Subway Station",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001_gherb_02",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Ticket Gate 3",
+        "region": "Subway Station",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205_GunPowder",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Ticket Gate 4",
+        "region": "Subway Station",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205_GunPowder",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Subway Station",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0201_0/gimmick",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Attache Case",
+        "region": "Subway Station",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items": [
+                "Lock Pick"
+            ]
+        },
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Clock Puzzle - 1st Jewel",
+        "region": "Subway Station",
+        "original_item": "Hand Grenade",
+        "condition": {
+            "items": [
+                "Red Jewel"
+            ]
+        },
+        "item_object": "WP6200",
+        "parent_object": "ItemPositions_Jewel_1",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/JewelryBox",
+        "randomized": 0
+    },
+    {
+        "name": "Clock Puzzle - 2nd Jewel",
+        "region": "Subway Station",
+        "original_item": "Tactical Stock - M3",
+        "condition": {
+            "items": [
+                "Red Jewel",
+                "Blue Jewel"
+            ]
+        },
+        "item_object": "sm71_101",
+        "parent_object": "ItemPositions_Jewel_2",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/JewelryBox",
+        "randomized": 0
+    },
+    {
+        "name": "Clock Puzzle - 3rd Jewel",
+        "region": "Subway Station",
+        "original_item": "Hip Pouch",
+        "condition": {
+            "items": [
+                "Red Jewel",
+                "Blue Jewel",
+                "Green Jewel"
+            ]
+        },
+        "item_object": "sm74_200",
+        "parent_object": "ItemPositions_Jewel_3",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/JewelryBox",
+        "randomized": 0
+    },
+    {
+        "name": "On Barrel in Alley",
+        "region": "South Avenue",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100_hgshell",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area"
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Main Avenue",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0208_0/gimmick"
+    },
+    {
+        "name": "Box By Donut Shop",
+        "region": "Shopping Plaza",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_300_DounutShop_Area"
+    },
+    {
+        "name": "By Coffee Machines",
+        "region": "Donut Shop",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100_hgshell",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_300_DounutShop_Area/_DounutShop_Inside"
+    },
+    {
+        "name": "Table By Zombie Couple",
+        "region": "Donut Shop",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_300_DounutShop_Area/_DounutShop_Inside"
+    },
+    {
+        "name": "Inside Kitchen 1",
+        "region": "Donut Shop",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_051",
+        "parent_object": "sm70_051",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_300_DounutShop_Area/_DounutShop_Inside",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Inside Kitchen 2",
+        "region": "Donut Shop",
+        "original_item": "Red Jewel",
+        "condition": {},
+        "item_object": "sm73_313",
+        "parent_object": "sm73_313",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "South Side Breakable Box",
+        "region": "Business Street",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0219_0/gimmick"
+    },
+    {
+        "name": "North Side Breakable Box",
+        "region": "Business Street",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0216_0/gimmick"
+    },
+    {
+        "name": "Table Next to Donut Shop",
+        "region": "Business Street",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_Street"
+    },
+    {
+        "name": "Floor in Hallway",
+        "region": "Subway Office",
+        "original_item": "Fire Hose",
+        "condition": {},
+        "item_object": "sm74_203",
+        "parent_object": "sm74_203",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem"
+    },
+    {
+        "name": "Middle Locker",
+        "region": "Subway Office",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "WP6200",
+        "parent_object": "600_wp6200_grenade_00_In_LockedLocker",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_ControlRoom"
+    },
+    {
+        "name": "Right Locker",
+        "region": "Subway Office",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205_gunp_In_Locker",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_ControlRoom"
+    },
+    {
+        "name": "Table By Downed Zombie",
+        "region": "Pharmacy",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_Pharamacy"
+    },
+    {
+        "name": "Shelves",
+        "region": "Pharmacy",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_206_chemi",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_Pharamacy"
+    },
+    {
+        "name": "Box By Register",
+        "region": "Pharmacy",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001_greenherb",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_Pharamacy"
+    },
+    {
+        "name": "Safe",
+        "region": "Drugstore Storage",
+        "original_item": "Dot Sight - G19",
+        "condition": {},
+        "item_object": "0232_sm42_019_SafeBoxDial01A_00_control",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/SafeBox"
+    },
+    {
+        "name": "In Drawer By Safe",
+        "region": "Drugstore Storage",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205_gunp_chestpos",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_500_Owner_House"
+    },
+    {
+        "name": "Storage Entry",
+        "region": "Drugstore Storage",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100_hgsehll",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_500_Owner_House"
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Building Rooftop",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0213_0/gimmick"
+    },
+    {
+        "name": "Downed Zombie",
+        "region": "Building Rooftop",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_400_Signboard_Area"
+    },
+    {
+        "name": "Tool Cabinet",
+        "region": "Tool Shop",
+        "original_item": "Bolt Cutters",
+        "condition": {},
+        "item_object": "sm73_001",
+        "parent_object": "sm73_001",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem",
+        "randomized": 0
+    },
+    {
+        "name": "On Table",
+        "region": "Garage",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101_sgshell",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_700_Garage",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Downed UCBS Merc",
+        "region": "Back Alley",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_700_Garage"
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Back Alley",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0226_0/gimmick"
+    },
+    {
+        "name": "Right Locker",
+        "region": "Substation",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205_gunp_Locker",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_800_Substaion_Area/I_Building_Inside",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Table",
+        "region": "Substation",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "sm70_002_rherb",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_800_Substaion_Area/I_Building_Inside",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Control Room",
+        "region": "Substation",
+        "original_item": "Hip Pouch",
+        "condition": {},
+        "item_object": "sm74_200",
+        "parent_object": "sm74_200_SideBag",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_800_Substaion_Area/I_Building_Inside",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Storage Racks 1",
+        "region": "Outdoor Area",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_800_Substaion_Area/I_Deimos_Area/HerbPlanter",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Storage Racks 2",
+        "region": "Outdoor Area",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_800_Substaion_Area/I_Deimos_Area/HerbPlanter",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Corpse",
+        "region": "Outdoor Area",
+        "original_item": "Lock Pick",
+        "condition": {},
+        "item_object": "EventPlay_EV322_k",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/Scenario/S03_1000/ES_S03_1000",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Outdoor Area",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0402_0/gimmick",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Portable Generator",
+        "region": "Power Maze",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_800_Substaion_Area/I_Deimos_Area",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Power Breaker",
+        "region": "Power Maze",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_800_Substaion_Area/I_Deimos_Area",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Power Maze",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0402_0/gimmick",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Left Locker",
+        "region": "Substation",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            "items": [
+                "Lock Pick"
+            ]
+        },
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100_KeyPickLocker",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_800_Substaion_Area/I_Building_Inside",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "1st Nemesis Case",
+        "region": "Nemesis Chase",
+        "original_item": "Extended Mag - G19",
+        "condition": {},
+        "item_object": "sm77_000",
+        "parent_object": "sm77_000",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/NemesisDropItems"
+    },
+    {
+        "name": "Locker",
+        "region": "Tool Shop",
+        "original_item": "First Aid Spray",
+        "condition": {
+            "items": [
+                "Lock Pick"
+            ]
+        },
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000spray_keylockpos",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_700_Garage",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Locker",
+        "region": "Donut Shop",
+        "original_item": "Hand Grenade",
+        "condition": {
+            "items": [
+                "Lock Pick"
+            ]
+        },
+        "item_object": "WP6200",
+        "parent_object": "wp6200_grenade_In_LockedLocker",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_300_DounutShop_Area/_DounutShop_Inside",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Barrel",
+        "region": "Side Alley",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_Street"
+    },
+    {
+        "name": "On Corpse",
+        "region": "Side Alley",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "WP6200",
+        "parent_object": "600_wp6200_grenade_02",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_Street"
+    },
+    {
+        "name": "Attache Case",
+        "region": "Side Alley",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101_InCase",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_Street"
+    },
+    {
+        "name": "In Case Of Emergency",
+        "region": "Subway Office",
+        "original_item": "M3 Shotgun",
+        "condition": {
+            "items": [
+                "Bolt Cutters"
+            ]
+        },
+        "item_object": "WP1000",
+        "parent_object": "WP1000",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/Weapon"
+    },
+    {
+        "name": "Left Locker",
+        "region": "Subway Office",
+        "original_item": "First Aid Spray",
+        "condition": {
+            "items": [
+                "Lock Pick"
+            ]
+        },
+        "item_object": "sm70_000",
+        "parent_object": "600_wp6200_grenade_01_In_LockedLocker",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_ControlRoom"
+    },
+    {
+        "name": "Attache Case",
+        "region": "Subway Office",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items": [
+                "Lock Pick"
+            ]
+        },
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101_InCase",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_PTCRoom"
+    },
+    {
+        "name": "2nd Nemesis Case",
+        "region": "Nemesis Chase",
+        "original_item": "Moderator - G19",
+        "condition": {},
+        "item_object": "sm77_001",
+        "parent_object": "sm77_001",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/NemesisDropItems"
+    },
+    {
+        "name": "Counter",
+        "region": "Toy Shop",
+        "original_item": "Green Jewel",
+        "condition": {},
+        "item_object": "sm73_311",
+        "parent_object": "sm73_311",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem"
+    },
+    {
+        "name": "Counter By Door",
+        "region": "Supermarket",
+        "original_item": "Blue Jewel",
+        "condition": {},
+        "item_object": "sm73_312",
+        "parent_object": "sm73_312",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem"
+    },
+    {
+        "name": "North East Shelves",
+        "region": "Supermarket",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_200_T-Junction_Area/I_205_SuperMarket"
+    },
+    {
+        "name": "Center Shelves",
+        "region": "Supermarket",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_206",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_200_T-Junction_Area/I_205_SuperMarket"
+    },
+    {
+        "name": "3rd Nemesis Case",
+        "region": "Nemesis Chase",
+        "original_item": "Supply Case - Shotgun Shells",
+        "condition": {},
+        "item_object": "sm77_002",
+        "parent_object": "sm77_002",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/NemesisDropItems"
+    },
+    {
+        "name": "Subway Access Passage",
+        "region": "Nemesis Chase",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/EmployeePassage"
+    },
+    {
+        "name": "Subway Storeroom",
+        "region": "Nemesis Chase",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/EmployeePassage"
+    },
+    {
+        "name": "Table",
+        "region": "Manager's Office",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "sm70_002",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_Safe_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Left Locker",
+        "region": "Manager's Office",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_107",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_Safe_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Right Locker",
+        "region": "Manager's Office",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_Safe_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Near Ladder",
+        "region": "East Tunnel",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "WP6200",
+        "parent_object": "wp6200",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Cart",
+        "region": "South Office",
+        "original_item": "MGL Grenade Launcher",
+        "condition": {},
+        "item_object": "WP4100",
+        "parent_object": "WP4100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/Weapon",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Barrel",
+        "region": "South Office",
+        "original_item": "Explosive B",
+        "condition": {},
+        "item_object": "sm70_208",
+        "parent_object": "sm70_208",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_Grenade_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Before Laboratory",
+        "region": "West Tunnel",
+        "original_item": "Flame Rounds",
+        "condition": {},
+        "item_object": "sm70_108",
+        "parent_object": "sm70_108",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Floor By Lockers",
+        "region": "Sewer Laboratory",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_BatteryKey_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Left Locker",
+        "region": "Sewer Laboratory",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205_InLocker",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_BatteryKey_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Locked Locker",
+        "region": "Sewer Laboratory",
+        "original_item": "Explosive A",
+        "condition": {},
+        "item_object": "sm70_207",
+        "parent_object": "sm70_207_In_LockedLocker",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_BatteryKey_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Refrigerator",
+        "region": "Sewer Laboratory",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_206",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_BatteryKey_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Cart",
+        "region": "Sewer Laboratory",
+        "original_item": "Battery Pack",
+        "condition": {},
+        "item_object": "sm73_305",
+        "parent_object": "sm73_305",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Northwest Tunnel",
+        "original_item": "Explosive B",
+        "condition": {},
+        "item_object": "sm70_208",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0611_0/gimmick",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Corpse",
+        "region": "Northwest Tunnel",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101_sgshell",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Table 1",
+        "region": "Security Room",
+        "original_item": "Explosive A",
+        "condition": {},
+        "item_object": "sm70_207",
+        "parent_object": "sm70_207",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_Security_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Table 2",
+        "region": "Security Room",
+        "original_item": "Hip Pouch",
+        "condition": {},
+        "item_object": "sm74_200",
+        "parent_object": "sm74_200_SideBag",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_Security_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Table 3",
+        "region": "Security Room",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/I_Security_Room",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Table",
+        "region": "Demolition Site Storage",
+        "original_item": "Explosive A",
+        "condition": {},
+        "item_object": "sm70_207",
+        "parent_object": "sm70_207",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1000_Construction/I_SafeRoom",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Floor Near Ladder",
+        "region": "Demolition Site Storage",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1000_Construction/I_SafeRoom",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Case on North Scaffolding",
+        "region": "Demolition Site Roof",
+        "original_item": "Explosive Rounds",
+        "condition": {},
+        "item_object": "sm70_106",
+        "parent_object": "sm70_106_InCase",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1000_Construction/I_Construction_10F",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Case on South Scaffolding",
+        "region": "Demolition Site Roof",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_051",
+        "parent_object": "sm70_001_InCase",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1000_Construction/I_Construction_10F",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Lumber",
+        "region": "Demolition Site Roof",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001_gherb",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1000_Construction/I_Construction_10F",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On South Scaffolding",
+        "region": "Demolition Site Roof",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "sm70_002_rherb",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1000_Construction/I_Construction_10F",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Box By Portable Generator 1",
+        "region": "Demolition Site Roof",
+        "original_item": "Explosive Rounds",
+        "condition": {},
+        "item_object": "sm70_106",
+        "parent_object": "sm70_106_greexplo",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1000_Construction/I_Construction_10F",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Box By Portable Generator 2",
+        "region": "Demolition Site Roof",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100_hgshell",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1000_Construction/I_Construction_10F",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Generator",
+        "region": "Demolition Site Roof",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101_sgshell",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1000_Construction/I_Construction_10F",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Car Next to Fire Truck",
+        "region": "Industry Street",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1100_Kendo_Area/I_RPD_Street"
+    },
+    {
+        "name": "Case Near RPD Garage",
+        "region": "Outside Gun Shop",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_206_InCase",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1100_Kendo_Area/I_RPD_Street",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "In Display Case",
+        "region": "Gun Shop",
+        "original_item": "Explosive B",
+        "condition": {},
+        "item_object": "sm70_208",
+        "parent_object": "sm70_208",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1100_Kendo_Area/I_KendoShop",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Weapon Crate",
+        "region": "Gun Shop",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001_greenherb",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1100_Kendo_Area/I_KendoShop",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Shelf 1",
+        "region": "Gun Shop",
+        "original_item": "Semi-Auto Barrel - M3",
+        "condition": {},
+        "item_object": "sm71_100",
+        "parent_object": "sm71_100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/Weapon",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Shelf 2",
+        "region": "Gun Shop",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1100_Kendo_Area/I_KendoShop",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Shelf 3",
+        "region": "Gun Shop",
+        "original_item": "Explosive A",
+        "condition": {},
+        "item_object": "sm70_207",
+        "parent_object": "sm70_207",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1100_Kendo_Area/I_KendoShop",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Display Case",
+        "region": "Gun Shop",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1100_Kendo_Area/I_KendoShop",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Key Cabinet",
+        "region": "Gun Shop",
+        "original_item": "Kendo Gate Key",
+        "condition": {},
+        "item_object": "sm73_301",
+        "parent_object": "sm73_301",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Zombie",
+        "region": "Small Alley",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "sm70_002_redherb",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1100_Kendo_Area/I_2Fhouse",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "2F Attache Case",
+        "region": "House",
+        "original_item": "Explosive Rounds",
+        "condition": {
+            "items": [
+                "Lock Pick"
+            ]
+        },
+        "item_object": "sm70_106",
+        "parent_object": "sm70_106_greexplo",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_1100_Kendo_Area/I_2Fhouse",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Scaffolding",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_DownTown/Environments/st03_0228_0/gimmick"
+    },
+    {
+        "name": "4th Nemesis Case",
+        "region": "Shopping Plaza",
+        "original_item": "Supply Case - Flame Rounds",
+        "condition": {
+            "items": [
+                "Kendo Gate Key",
+                "Lock Pick",
+                "Bolt Cutters",
+                "Fire Hose",
+                "Battery Pack"
+            ]
+        },
+        "item_object": "sm77_004",
+        "parent_object": "sm77_004",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/NemesisDropItems"
+    },
+    {
+        "name": "Breakable Box",
+        "region": "East Courtyard",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0301_0/gimmick_Escape",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Near Breakable Box",
+        "region": "East Courtyard",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "sm70_002_0301",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Brad's Corpse",
+        "region": "RPD Entrance",
+        "original_item": "ID Card",
+        "condition": {},
+        "item_object": "sm73_203",
+        "parent_object": "sm73_203",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Crates Near Medallion Statue",
+        "region": "Main Lobby",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Waiting Room Barricade",
+        "region": "Main Lobby",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "ID Case",
+        "region": "RPD Reception",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {
+            "items": [
+                "ID Card"
+            ]
+        },
+        "item_object": "sm70_102",
+        "parent_object": "ItemPositions_sm41_410",
+        "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0202_0/gimmick_Escape",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Table",
+        "region": "Operations Room",
+        "original_item": "Flash Grenade",
+        "condition": {},
+        "item_object": "WP6300",
+        "parent_object": "WP6300",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Table",
+        "region": "Operations Room 2",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "sm70_102",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box",
+        "region": "West Hallway 1F",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0217_0/gimmick_Escape",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "ID Case",
+        "region": "West Office",
+        "original_item": "Scope - Assault Rifle",
+        "condition": {
+            "items": [
+                "ID Card"
+            ]
+        },
+        "item_object": "sm71_200",
+        "parent_object": "ItemPositions_sm41_410",
+        "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0208_0/gimmick_Escape",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Locker",
+        "region": "West Office",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "ItemPositions_NormalLocker_1FW_OfficeW",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Desk Near Safe",
+        "region": "West Office",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Safe",
+        "region": "West Office",
+        "original_item": "Hip Pouch",
+        "condition": {},
+        "item_object": "sm42_019_SafeBoxDial01A_OfficeW_control",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/1FW/WestOffice/IronSafe_1FWOffice",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Cabinet Near Reception Window",
+        "region": "West Office",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "sm70_002_WestOffice",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Reception Window",
+        "region": "West Office",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Right Locker",
+        "region": "Darkroom",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "ItemPositions_NormalLocker_1FW3DarkRoom",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Left Locker",
+        "region": "Darkroom",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "ItemPositions_NormalLocker_1FW1DarkRoom",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box",
+        "region": "West Hallway 3F",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0603_0/gimmick_Escape",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "DCM Locker",
+        "region": "West Hallway 3F",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "ItemPositions_NormalLocker_3FWCorridor",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Box",
+        "region": "West Hallway 3F",
+        "original_item": "Safety Deposit Key",
+        "condition": {},
+        "item_object": "sm73_201",
+        "parent_object": "sm73_201",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "randomized": 0
+    },
+    {
+        "name": "Locker 104",
+        "region": "Safety Deposit Room",
+        "original_item": "Battery",
+        "condition": {},
+        "item_object": "sm73_200",
+        "parent_object": "sm73_200_Bomb_Locker104",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/1FW/hokanko/HokankoLocker/HokankoItems",
+        "randomized": 0
+    },
+    {
+        "name": "Locker 106",
+        "region": "Safety Deposit Room",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "sm70_102_Asshell_Locker106",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/1FW/hokanko/HokankoLocker/HokankoItems",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Locker 109",
+        "region": "Safety Deposit Room",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "RPD_Mess_ItemGet_109",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Scenario/S02_0400/ES_S02_0400/Msg",
+        "randomized": 0
+    },
+    {
+        "name": "On Cabinet",
+        "region": "Safety Deposit Room",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001_Hokanko",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Towel Rack",
+        "region": "Shower Room",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "CAP Locker",
+        "region": "Shower Room",
+        "original_item": "Flash Grenade",
+        "condition": {},
+        "item_object": "WP6300",
+        "parent_object": "ItemPositions_NormalLocker_2FW2Corridor",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Shower Wall",
+        "region": "Shower Room",
+        "original_item": "Electronic Gadget",
+        "condition": {},
+        "item_object": "sm73_204",
+        "parent_object": "ItemPositionsForBarricade",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Scenario/S02_0300/ES_S02_0300/ShowerRoomBlownUp",
+        "randomized": 0
+    },
+    {
+        "name": "On Bench",
+        "region": "Shower Room",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "sm70_102",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common"
+    },
+    {
+        "name": "Right Locker",
+        "region": "Shower Room",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "ItemPositions_NormalLocker_2FW10LockerRoom",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker"
+    },
+    {
+        "name": "Left Locker",
+        "region": "Shower Room",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "ItemPositions_NormalLocker_2FW9LockerRoom",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker"
+    },
+    {
+        "name": "By Linen Room",
+        "region": "West Hallway 2F",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "sm70_102",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common"
+    },
+    {
+        "name": "ID Case",
+        "region": "STARS Office",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {
+            "items": [
+                "ID Card"
+            ]
+        },
+        "item_object": "sm70_102",
+        "parent_object": "ItemPositions_sm41_410",
+        "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0404_0/gimmick_Escape"
+    },
+    {
+        "name": "Desk By Armory",
+        "region": "STARS Office",
+        "original_item": "Flash Grenade",
+        "condition": {},
+        "item_object": "WP6300",
+        "parent_object": "WP6300_StarsOffice",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common"
+    },
+    {
+        "name": "First Aid Kit",
+        "region": "STARS Office",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000_StarsOffice",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common"
+    },
+    {
+        "name": "Box By Entrance",
+        "region": "STARS Office",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "sm70_002_StarsOffice",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common"
+    },
+    {
+        "name": "Bench 1",
+        "region": "Dilapidated Shelter",
+        "original_item": "Mine Rounds",
+        "condition": {},
+        "item_object": "sm70_105",
+        "parent_object": "sm70_105mine",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item/SafeRoom",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Bench 2",
+        "region": "Dilapidated Shelter",
+        "original_item": "Mine Rounds",
+        "condition": {},
+        "item_object": "sm70_105",
+        "parent_object": "sm70_105mine",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item/SafeRoom",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Bench 3",
+        "region": "Dilapidated Shelter",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000_spray",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item/SafeRoom",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Chair",
+        "region": "Dilapidated Shelter",
+        "original_item": "M3 Shotgun",
+        "condition": {},
+        "item_object": "WP1000",
+        "parent_object": "WP1000",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Barrel",
+        "region": "Dilapidated Shelter",
+        "original_item": "MGL Grenade Launcher",
+        "condition": {},
+        "item_object": "WP4100",
+        "parent_object": "WP4100",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Bench By Waterside",
+        "region": "Promenade",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100hgsell",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Bench Near Statues",
+        "region": "Promenade",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001gherb",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Promenade",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_ClockTower/Environments/st03_0804_0/gimmick",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box By School Bus",
+        "region": "Plaza",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_ClockTower/Environments/st03_0806_0/gimmick"
+    },
+    {
+        "name": "Breakable Box By City Bus",
+        "region": "Plaza",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_ClockTower/Environments/st03_0806_0/gimmick"
+    },
+    {
+        "name": "By School Bus 1",
+        "region": "Plaza",
+        "original_item": "Flame Rounds",
+        "condition": {},
+        "item_object": "sm70_108",
+        "parent_object": "sm70_108",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item"
+    },
+    {
+        "name": "By School Bus 2",
+        "region": "Plaza",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100hgshell_Car04A_01",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item"
+    },
+    {
+        "name": "Behind Statue",
+        "region": "Plaza",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001gherb",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item"
+    },
+    {
+        "name": "Inside Van",
+        "region": "Plaza",
+        "original_item": "Mine Rounds",
+        "condition": {},
+        "item_object": "sm70_105",
+        "parent_object": "sm70_105mine_Van04B_01",
+        "folder_path": "RopewayContents/World/Location_ClockTower/Environments/st03_0806_0/gimmick"
+    },
+    {
+        "name": "Inside Patrol Car",
+        "region": "Plaza",
+        "original_item": "Mine Rounds",
+        "condition": {},
+        "item_object": "sm70_105",
+        "parent_object": "sm70_105mine_Car01A_Ch3_2_00",
+        "folder_path": "RopewayContents/World/Location_ClockTower/Environments/st03_0806_0/gimmick"
+    },
+    {
+        "name": "By City Bus 1",
+        "region": "Plaza",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101sgshell",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item"
+    },
+    {
+        "name": "By City Bus 2",
+        "region": "Plaza",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100hgshell",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item"
+    },
+    {
+        "name": "Inside SWAT Truck",
+        "region": "Plaza",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101sgshell_Car01B_00",
+        "folder_path": "RopewayContents/World/Location_ClockTower/Environments/st03_0806_0/gimmick"
+    },
+    {
+        "name": "By Doors",
+        "region": "Makeshift Sickroom",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0101_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0101"
+    },
+    {
+        "name": "Admissions Desk 1",
+        "region": "Hospital Lobby",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0102_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0102"
+    },
+    {
+        "name": "Admissions Desk 2",
+        "region": "Hospital Lobby",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "st04_0102_sm70_000_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0102"
+    },
+    {
+        "name": "Reception Desk",
+        "region": "Hospital Reception",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "st04_0103_sm70_002_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0103"
+    },
+    {
+        "name": "Reception Desk",
+        "region": "Laboratory Reception",
+        "original_item": "Tape Player",
+        "condition": {},
+        "item_object": "sm73_403",
+        "parent_object": "sm73_403(CassetPlayer)",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/KeyItem"
+    },
+    {
+        "name": "By Couch",
+        "region": "Laboratory Reception",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "st04_0105_sm70_001_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0105"
+    },
+    {
+        "name": "Breakable Box Near Operating Room",
+        "region": "Emergency Entrance",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital/Environments/st04_0107_0/gimmick"
+    },
+    {
+        "name": "Table",
+        "region": "Emergency Entrance",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0107_sm70_102_01",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0107"
+    },
+    {
+        "name": "Gurney",
+        "region": "Main Corridor 2F",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "st04_0202_sm70_100_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0202"
+    },
+    {
+        "name": "Shelves",
+        "region": "Main Corridor 2F",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0202_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0202"
+    },
+    {
+        "name": "Shelf",
+        "region": "Records Room",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0203_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0203"
+    },
+    {
+        "name": "By Typewriter",
+        "region": "Records Room",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "st04_0203_sm70_001_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0203"
+    },
+    {
+        "name": "Stepstool",
+        "region": "Records Room",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "st04_0203_sm70_100_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0203"
+    },
+    {
+        "name": "Table",
+        "region": "Staff Room",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0204_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0204"
+    },
+    {
+        "name": "Safe",
+        "region": "Nurse Station",
+        "original_item": "Dual Magazine - Assault Rifle",
+        "condition": {},
+        "item_object": "0101_sm42_019_SafeBoxDial01A_control",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/LocationFsm_Hospital/common/ES_common/SafeBox"
+    },
+    {
+        "name": "Overbed Table 1",
+        "region": "Sickroom",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "st04_0210_sm70_001_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0210"
+    },
+    {
+        "name": "Overbed Table 2",
+        "region": "Sickroom",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0210_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0210"
+    },
+    {
+        "name": "Supply Cart",
+        "region": "Sickroom",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "WP6200",
+        "parent_object": "st04_0210_wp6200_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0210"
+    },
+    {
+        "name": "Southside",
+        "region": "Courtyard",
+        "original_item": "Tactical Grip - Assault Rifle",
+        "condition": {},
+        "item_object": "sm71_202",
+        "parent_object": "st04_0113_sm71_202",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0113"
+    },
+    {
+        "name": "Northwest Corner 1",
+        "region": "Courtyard",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "st04_0113_sm70_001_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0113"
+    },
+    {
+        "name": "Northwest Corner 2",
+        "region": "Courtyard",
+        "original_item": "Locker Room Key",
+        "condition": {},
+        "item_object": "sm73_407",
+        "parent_object": "sm73_407(Key)",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/KeyItem"
+    },
+    {
+        "name": "Near Courtyard Exit",
+        "region": "Main Corridor",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0104_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0104"
+    },
+    {
+        "name": "West Locker",
+        "region": "Locker Room",
+        "original_item": "Hospital ID Card",
+        "condition": {},
+        "item_object": "sm73_400",
+        "parent_object": "Locker_cardkey",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
+        "randomized": 0
+    },
+    {
+        "name": "North Locker",
+        "region": "Locker Room",
+        "original_item": "Flash Grenade",
+        "condition": {},
+        "item_object": "WP6300",
+        "parent_object": "Locker_Senko",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem"
+    },
+    {
+        "name": "By Locker",
+        "region": "Linen Room",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0206_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0206"
+    },
+    {
+        "name": "Stepstool",
+        "region": "Linen Room",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "st04_0206_sm70_002_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0206"
+    },
+    {
+        "name": "Overbed Table 1",
+        "region": "Treatment Room",
+        "original_item": "Cassette Tape",
+        "condition": {},
+        "item_object": "sm73_402",
+        "parent_object": "sm73_402(Tape)",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/KeyItem",
+        "randomized": 0
+    },
+    {
+        "name": "Overbed Table 2",
+        "region": "Treatment Room",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0209_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0209"
+    },
+    {
+        "name": "Cart 1",
+        "region": "Operating Room",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "st04_0108_sm70_001_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0108"
+    },
+    {
+        "name": "Cart 2",
+        "region": "Operating Room",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "st04_0108_sm70_100_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0108"
+    },
+    {
+        "name": "Cart 3",
+        "region": "Operating Room",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0108_sm70_102_01",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0108"
+    },
+    {
+        "name": "Cart 4",
+        "region": "Operating Room",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0108_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0108"
+    },
+    {
+        "name": "Cart 5",
+        "region": "Operating Room",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "WP6200",
+        "parent_object": "st04_0108_wp6100_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0108"
+    },
+    {
+        "name": "Cart 6",
+        "region": "Operating Room",
+        "original_item": "Flash Grenade",
+        "condition": {},
+        "item_object": "WP6300",
+        "parent_object": "st04_0108_Wp6300_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0108"
+    },
+    {
+        "name": "Cart 7",
+        "region": "Operating Room",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "WP6200",
+        "parent_object": "st04_0108_wp6100_01",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0108"
+    },
+    {
+        "name": "Cart 8",
+        "region": "Operating Room",
+        "original_item": "Flash Grenade",
+        "condition": {},
+        "item_object": "WP6300",
+        "parent_object": "st04_0108_Wp6300_01",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0108"
+    },
+    {
+        "name": "Breakable Box Near Locker",
+        "region": "Emergency Entrance",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital/Environments/st04_0107_0/gimmick"
+    },
+    {
+        "name": "Desk 1",
+        "region": "Research Laboratory",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0109_sm70_102_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0109"
+    },
+    {
+        "name": "Desk 2",
+        "region": "Research Laboratory",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "st04_0109_sm70_100_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0109"
+    },
+    {
+        "name": "Desk 3",
+        "region": "Research Laboratory",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "st04_0109_sm70_001_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/st04_0109"
+    },
+    {
+        "name": "Desk 4",
+        "region": "Research Laboratory",
+        "original_item": "Assault Rifle Ammo",
+        "condition": {},
+        "item_object": "sm70_102",
+        "parent_object": "st04_0109_sm70_102_01",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0109"
+    },
+    {
+        "name": "Cold Storage",
+        "region": "Sample Room",
+        "original_item": "Vaccine Sample",
+        "condition": {},
+        "item_object": "sm73_404",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital/Environments/gmk_door",
+        "randomized": 0
+    },
+    {
+        "name": "Tyrell-FAS",
+        "region": "Makeshift Sickroom",
+        "original_item": "First Aid Spray",
+        "condition": {
+            "items": [
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_000",
+        "parent_object": "st04_0101_sm70_000_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/Item/st04_0101"
+    },
+    {
+        "name": "Weapon Crate",
+        "region": "Hospital Lobby",
+        "original_item": "Detonator",
+        "condition": {
+            "items": [
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm73_406",
+        "parent_object": "sm73_406",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common/RoujousenRepopItem",
+        "randomized": 0
+    },
+    {
+        "name": "By Doors 1",
+        "region": "Makeshift Sickroom",
+        "original_item": "G18",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "WP0100",
+        "parent_object": "G18_Handgun",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Wepon",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Doors 2",
+        "region": "Makeshift Sickroom",
+        "original_item": "Flash Grenade",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_100",
+        "parent_object": "st04_0101_sm70_100_01",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Item/st04_0101",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box Near Sickroom",
+        "region": "Hospital Lobby",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital/Environments/st04_0102_0/gimmick_Hospital2",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box Near Reception",
+        "region": "Hospital Lobby",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital/Environments/st04_0102_0/gimmick_Hospital2",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Attache Case",
+        "region": "Main Corridor",
+        "original_item": "MAG Ammo",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_103",
+        "parent_object": "KeyAttache_MagnumBullet",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Locker",
+        "region": "Emergency Entrance",
+        "original_item": "Explosive Rounds",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_106",
+        "parent_object": "KeyLocker_GrenadeLauncherBullet",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Bard",
+        "region": "Research Laboratory",
+        "original_item": "Explosive B",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_208",
+        "parent_object": "st04_0109_sm70_208_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Item/st04_0109",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Locker",
+        "region": "Staff Room",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_101",
+        "parent_object": "KeyLocker_Spray",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Attache Case",
+        "region": "Courtyard",
+        "original_item": "MAG",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "WP3000",
+        "parent_object": "Attache_Magnum",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Locker",
+        "region": "Linen Room",
+        "original_item": "MAG Ammo",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_103",
+        "parent_object": "KeyLocker_MagnumBullet",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Supply Cart",
+        "region": "Treatment Room",
+        "original_item": "Explosive A",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_207",
+        "parent_object": "st04_0209_sm70_207_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Item/st04_0209",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Walker",
+        "region": "Sickroom",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_206",
+        "parent_object": "st04_0210_sm70_206_00",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Item/st04_0210",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Generator Room",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0301_1/gimmick",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Truck",
+        "region": "Loading Bay",
+        "original_item": "Explosive B",
+        "condition": {},
+        "item_object": "sm70_208",
+        "parent_object": "st04_0302_sm70_208_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0302",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Forklift",
+        "region": "Bioweapons Shipping",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "st04_0402_sm70_001_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0402",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Near Typewriter",
+        "region": "Shipping Office",
+        "original_item": "Hip Pouch",
+        "condition": {},
+        "item_object": "sm74_200",
+        "parent_object": "st04_0406_sm74_200_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0406",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Box on Walkway",
+        "region": "Warehouse",
+        "original_item": "Explosive A",
+        "condition": {},
+        "item_object": "sm70_207",
+        "parent_object": "st04_0403_02_sm70_207_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_02",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box 1",
+        "region": "Warehouse",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Breakable Box 2",
+        "region": "Warehouse",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "In Container",
+        "region": "Warehouse",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "st04_0403_01_sm70_100_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "After Dead End",
+        "region": "Warehouse",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "st04_0403_01_sm70_002_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Case By Lift",
+        "region": "Warehouse",
+        "original_item": "Shell Holder - M3",
+        "condition": {},
+        "item_object": "sm71_102",
+        "parent_object": "st04_0403_01_sm71_102",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Lift",
+        "region": "Warehouse",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "st04_0403_02_sm70_100_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_02",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "By Scissor Lift",
+        "region": "Warehouse",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "st04_0403_02_sm70_206_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_02",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "In Container By Fuse 1",
+        "region": "Warehouse",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "st04_0403_01_sm70_205_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "In Container By Fuse 2",
+        "region": "Warehouse",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "st04_0403_01_sm70_205_01",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "In Container By Fuse 3",
+        "region": "Warehouse",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "st04_0403_01_sm70_206_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "In Container By Fuse 4",
+        "region": "Warehouse",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "st04_0403_01_sm70_001_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Boxes Near Fusebox",
+        "region": "Warehouse",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "st04_0403_01_sm70_205_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Fusebox 1",
+        "region": "Warehouse",
+        "original_item": "Fuse 1",
+        "condition": {},
+        "item_object": "sm73_411",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick/FuseBox",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Fusebox 2",
+        "region": "Warehouse",
+        "original_item": "Fuse 2",
+        "condition": {},
+        "item_object": "sm73_413",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick/FuseBox",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Fusebox 3",
+        "region": "Warehouse",
+        "original_item": "Fuse 3",
+        "condition": {},
+        "item_object": "sm73_412",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick/FuseBox",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "On Box",
+        "region": "Small Storage Room",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "st04_0404_sm70_101_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0404",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Attache Case",
+        "region": "Surveillance Room",
+        "original_item": "Extended Barrel - MAG",
+        "condition": {},
+        "item_object": "sm71_300",
+        "parent_object": "st04_0405_sm71_300_00",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0405",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Override Key",
+            "Culture Sample"
+        ]
+    },
+    {
+        "name": "Shelves",
+        "region": "Laboratory Storage",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_206",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/01_LockerRoom"
+    },
+    {
+        "name": "Near Computers 1",
+        "region": "Laboratory Storage",
+        "original_item": "MGL Grenade Launcher",
+        "condition": {},
+        "item_object": "WP4100",
+        "parent_object": "WP4100",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/99_ReliefWeapon"
+    },
+    {
+        "name": "Near Computers 2",
+        "region": "Laboratory Storage",
+        "original_item": "M3 Shotgun",
+        "condition": {},
+        "item_object": "WP1000",
+        "parent_object": "WP1000",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/99_ReliefWeapon"
+    },
+    {
+        "name": "Floor By Door",
+        "region": "Laboratory Storage",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/01_LockerRoom"
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Laboratory Hallway 2F",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Laboratory/Environments/st05_0104_0/gimmick"
+    },
+    {
+        "name": "Shelves",
+        "region": "Experiment Room",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_206",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "By Corpse",
+        "region": "Experiment Room",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "In Terminal",
+        "region": "Experiment Room",
+        "original_item": "Override Key",
+        "condition": {},
+        "item_object": "sm42_503_ES_LabMonitor04A_00_gimmick",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/Environments/st05_0108_0/gimmick"
+    },
+    {
+        "name": "Storage",
+        "region": "Lab 1",
+        "original_item": "Culture Sample",
+        "condition": {},
+        "item_object": "st05_0107_sm41_426_ES_GrowthMachine01A_gimmick",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/Environments/st05_0107_0/gimmick"
+    },
+    {
+        "name": "On Cart 1",
+        "region": "Lab 1",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "On Cart 2",
+        "region": "Lab 1",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "On Box 1",
+        "region": "Experiment Storage",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "On Box 2",
+        "region": "Experiment Storage",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "sm70_001",
+        "parent_object": "sm70_001",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "On Cart",
+        "region": "Experiment Storage",
+        "original_item": "Explosive A",
+        "condition": {},
+        "item_object": "sm70_207",
+        "parent_object": "sm70_207",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "On Floor",
+        "region": "Server Room 2F",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "sm70_002",
+        "parent_object": "sm70_002",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "Cart Near Corpse",
+        "region": "Server Room 2F",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "Case Near Servers",
+        "region": "Server Room 2F",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_107",
+        "parent_object": "sm70_107_Acase",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "Case By Zombie",
+        "region": "Server Room",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000_Acase",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "Attache Case",
+        "region": "Bioweapon Incubation Room",
+        "original_item": "Explosive B",
+        "condition": {},
+        "item_object": "sm70_208",
+        "parent_object": "sm70_208_Acase",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "Attache Case",
+        "region": "Walkway",
+        "original_item": "Explosive B",
+        "condition": {},
+        "item_object": "sm70_208",
+        "parent_object": "sm70_208_Acase",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "Attache Case",
+        "region": "Incubation Lab",
+        "original_item": "Explosive A",
+        "condition": {},
+        "item_object": "sm70_207",
+        "parent_object": "sm70_207_Acase",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "Cold Storage",
+        "region": "Incubation Lab",
+        "original_item": "Liquid-Filled Test Tube",
+        "condition": {},
+        "item_object": "st05_0110_sm41_427_ES_VaccineFreezer01A_gimmick",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/Environments/st05_0110_0/gimmick",
+        "randomized": 0
+    },
+    {
+        "name": "By Case",
+        "region": "Incubation Lab",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory"
+    },
+    {
+        "name": "Synthesizer",
+        "region": "Experiment Room",
+        "original_item": "Vaccine",
+        "condition": {
+            "items": [
+                "Culture Sample",
+                "Liquid-Filled Test Tube"
+            ]
+        },
+        "item_object": "sm73_502",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Laboratory/Environments/st05_0108_0/gimmick",
+        "randomized": 0
+    },
+    {
+        "name": "Weapon Crate 1",
+        "region": "Worker's Break Room",
+        "original_item": "Explosive Rounds",
+        "condition": {},
+        "item_object": "sm70_106",
+        "parent_object": "sm70_106_Sakuretsu",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/03_Room01"
+    },
+    {
+        "name": "Weapon Crate 2",
+        "region": "Worker's Break Room",
+        "original_item": "Flame Rounds",
+        "condition": {},
+        "item_object": "sm70_108",
+        "parent_object": "sm70_108_Shoui",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/03_Room01"
+    },
+    {
+        "name": "Weapon Crate 3",
+        "region": "Worker's Break Room",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_206",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/03_Room01"
+    },
+    {
+        "name": "Weapon Crate 4",
+        "region": "Worker's Break Room",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/03_Room01"
+    },
+    {
+        "name": "Breakable Box",
+        "region": "Worker's Break Room",
+        "original_item": "Explosive A",
+        "condition": {},
+        "item_object": "sm70_207",
+        "parent_object": "ItemPositions",
+        "folder_path": "RopewayContents/World/Location_Laboratory/Environments/st05_0202_0/gimmick"
+    },
+    {
+        "name": "Attache Case",
+        "region": "Disposable Chamber Walkway",
+        "original_item": "Flame Rounds",
+        "condition": {},
+        "item_object": "sm70_108",
+        "parent_object": "sm70_108_Acase",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/03_Room01"
+    },
+    {
+        "name": "Amongst Waste 1",
+        "region": "Disposable Chamber",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100_HG",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/03_Room01"
+    },
+    {
+        "name": "Amongst Waste 2",
+        "region": "Disposable Chamber",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000_Kyukyu",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/03_Room01"
+    },
+    {
+        "name": "Amongst Waste 3",
+        "region": "Disposable Chamber",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100_HG",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/03_Room01"
+    },
+    {
+        "name": "Amongst Waste 4",
+        "region": "Disposable Chamber",
+        "original_item": "Shotgun Shells",
+        "condition": {},
+        "item_object": "sm70_101",
+        "parent_object": "sm70_101_SG",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/03_Room01"
+    },
+    {
+        "name": "Near Typewriter",
+        "region": "Staff Break Room",
+        "original_item": "Gunpowder",
+        "condition": {},
+        "item_object": "sm70_205",
+        "parent_object": "sm70_205",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Near Shelves",
+        "region": "Staff Break Room",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 1",
+        "region": "Weapons Testing Area",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 2",
+        "region": "Weapons Testing Area",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 3",
+        "region": "Weapons Testing Area",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 4",
+        "region": "Weapons Testing Area",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 5",
+        "region": "Weapons Testing Area",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 6",
+        "region": "Weapons Testing Area",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 7",
+        "region": "Weapons Testing Area",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 8",
+        "region": "Weapons Testing Area",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "WP6200",
+        "parent_object": "wp6200",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 9",
+        "region": "Weapons Testing Area",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "sm70_000",
+        "parent_object": "sm70_000",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Final Fight 10",
+        "region": "Weapons Testing Area",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Victory",
+        "region": "Helipad",
+        "comment": "This is the standoff on the Helipad, and will give you Victory regardless if you land the shot or not",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick",
+                "Battery Pack",
+                "Kendo Gate Key",
+                "ID Card",
+                "Safety Deposit Key",
+                "Battery",
+                "Tape Player",
+                "Cassette Tape",
+                "Locker Room Key",
+                "Hospital ID Card",
+                "Vaccine Sample",
+                "Fuse 1",
+                "Fuse 2",
+                "Fuse 3",
+                "Override Key",
+                "Culture Sample",
+                "Liquid-Filled Test Tube",
+                "Vaccine"
+            ]
+        },
+        "item_object": "sm49_501_ES_G19",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/Environments/st05_0501_0/gimmick",
+        "id": null,
+        "victory": true
+    }
+]

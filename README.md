@@ -19,23 +19,18 @@ If you play on Assisted, make sure you choose Standard in your yaml.
 ## How is the scenarios data structured?
 All of the scenarios' data lives in the `data` folder. The structure of the data is:
 
-- [Character folder](#character-folder)
-  - [Scenarios folder](#scenarios-folder)
-    - [Locations file](#locations-file)
-    - [Locations (Hardcore) file](#locations-hardcore-file)
-    - [Regions file](#regions-file)
-    - [Region Connections file](#region-connections-file)
-    - [Typewriter List file](#typewriter-list-file)
+  - [Locations file](#locations-file)
+  - [Locations (Hardcore) file](#locations-hardcore-file)
+  - [Regions file](#regions-file)
+  - [Region Connections file](#region-connections-file)
+  - [Typewriter List file](#typewriter-list-file)
   - [Item List file](#item-list-file)
   - [Region Zones file](#region-zones-file)
-
-### Character folder
-Data is loaded from the `jill` character folder, it contains all the scenario data and everything else involving the scenarios.
 
 ---
 
 #### Item List file
-Each character's items are the same across scenarios. Some important fields to note:
+Some important fields to note:
 
 ##### Item Type
 There are multiple item types to choose from:

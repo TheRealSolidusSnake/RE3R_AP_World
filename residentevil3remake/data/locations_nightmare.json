@@ -1,0 +1,270 @@
+[
+    {
+        "name": "By Ticket Gate 3",
+        "region": "Subway Station",
+        "original_item": "Hip Pouch",
+        "condition": {},
+        "item_object": "sm74_200",
+        "parent_object": "sm74_200_SideBag",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/_Nightmare",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample",
+            "Liquid-Filled Test Tube"
+        ]
+    },
+    {
+        "name": "By Ticket Gate 4",
+        "region": "Subway Station",
+        "original_item": "MAG",
+        "condition": {},
+        "item_object": "WP3000",
+        "parent_object": "WP3000",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/Weapon/Nightmare",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Fire Hose",
+            "Lock Pick",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample",
+            "Liquid-Filled Test Tube"
+        ]
+    },
+    {
+        "name": "On Barrel in Alley",
+        "region": "South Avenue",
+        "original_item": "Flash Grenade",
+        "condition": {},
+        "item_object": "WP6300",
+        "parent_object": "wp6300",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/_Nightmare"
+    },
+    {
+        "name": "Inside Cop Car",
+        "region": "Main Avenue",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100_hgshell",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_200_T-Junction_Area"
+    },
+    {
+        "name": "Counter",
+        "region": "Toy Shop",
+        "original_item": "MAG Ammo",
+        "condition": {},
+        "item_object": "sm70_103",
+        "parent_object": "sm70_103",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_200_T-Junction_Area/Nightmare"
+    },
+    {
+        "name": "Box By Donut Shop",
+        "region": "Shopping Plaza",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_206",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_300_DounutShop_Area/Nightmare"
+    },
+    {
+        "name": "On Cart",
+        "region": "Pharmacy",
+        "original_item": "Green Jewel",
+        "condition": {},
+        "item_object": "sm73_311",
+        "parent_object": "sm73_311",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem/Nightmare"
+    },
+    {
+        "name": "Downed Zombie By Entrance",
+        "region": "Subway Office",
+        "original_item": "Hand Grenade",
+        "condition": {},
+        "item_object": "WP6200",
+        "parent_object": "wp6200",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_ControlRoom"
+    },
+    {
+        "name": "Right Locker",
+        "region": "Subway Office",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_205_gunp_In_Locker",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_600_ControlStation_Area/I_ControlRoom"
+    },
+    {
+        "name": "On Barrel 2",
+        "region": "Side Alley",
+        "original_item": "Blue Jewel",
+        "condition": {},
+        "item_object": "sm73_312",
+        "parent_object": "sm73_312",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem/Nightmare"
+    },
+    {
+        "name": "Power Panel By Scaffolding",
+        "region": "Power Maze",
+        "original_item": "Red Jewel",
+        "condition": {},
+        "item_object": "sm73_313",
+        "parent_object": "sm73_313",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem/Nightmare",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Battery Pack",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample",
+            "Liquid-Filled Test Tube"
+        ]
+    },
+    {
+        "name": "Table 3",
+        "region": "Security Room",
+        "original_item": "High-Grade Gunpowder",
+        "condition": {},
+        "item_object": "sm70_206",
+        "parent_object": "sm70_206",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_900_Sewer/Nightmare",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "Kendo Gate Key",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample",
+            "Liquid-Filled Test Tube"
+        ]
+    },
+    {
+        "name": "Near Door On Box",
+        "region": "Guard Room",
+        "original_item": "ID Card",
+        "condition": {},
+        "item_object": "sm73_203",
+        "parent_object": "sm73_203",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common/NIGHTMARE",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample",
+            "Liquid-Filled Test Tube"
+        ]
+    },
+    {
+        "name": "Attache Case",
+        "region": "Courtyard",
+        "original_item": "MAG Ammo",
+        "condition": {
+            "items": [
+                "Lock Pick",
+                "Vaccine Sample"
+            ]
+        },
+        "item_object": "sm70_103",
+        "parent_object": "Attache_MagnumBullet",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
+        "allow_item": [
+            "Red Jewel",
+            "Blue Jewel",
+            "Green Jewel",
+            "ID Card",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample",
+            "Liquid-Filled Test Tube"
+        ]
+    },
+    {
+        "name": "Final Fight 10",
+        "region": "Weapons Testing Area",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "sm70_100",
+        "parent_object": "sm70_100_SHard",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
+    },
+    {
+        "name": "Counter By Door",
+        "region": "Supermarket",
+        "remove": true
+    },
+    {
+        "name": "Inside Kitchen 2",
+        "region": "Donut Shop",
+        "remove": true
+    },
+    {
+        "name": "Control Room",
+        "region": "Substation",
+        "remove": true
+    },
+    {
+        "name": "Brad's Corpse",
+        "region": "RPD Entrance",
+        "remove": true
+    },
+    {
+        "name": "Supply Cart",
+        "region": "Sickroom",
+        "remove": true
+    },
+    {
+        "name": "Cart 7",
+        "region": "Operating Room",
+        "remove": true
+    },
+    {
+        "name": "Cart 8",
+        "region": "Operating Room",
+        "remove": true
+    }
+]

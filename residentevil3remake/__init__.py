@@ -58,7 +58,7 @@ class ResidentEvil3Remake(World):
 
     def generate_early(self): # check weapon randomization before locations and items are processed, so we can swap non-randomized items as well
         # start with the normal locations per player for pool, then overwrite with weapon rando if needed
-        self.source_locations[self.player] = self._get_locations_for_scenario(self._get_character(), self._get_scenario()) # id:loc combo
+        self.source_locations[self.player] = self._get_locations() # id:loc combo
         self.source_locations[self.player] = { 
             RE3RLocation.stack_names(l['region'], l['name']): { **l, 'id': i } 
                 for i, l in self.source_locations[self.player].items() 
@@ -66,7 +66,7 @@ class ResidentEvil3Remake(World):
 
     def create_regions(self): # and create locations
         scenario_locations = { l['id']: l for _, l in self.source_locations[self.player].items() }
-        scenario_regions = self._get_region_table_for_scenario(self._get_character(), self._get_scenario())
+        scenario_regions = self._get_region_table()
 
         regions = [
             Region(region['name'], self.player, self.multiworld) 
@@ -117,7 +117,7 @@ class ResidentEvil3Remake(World):
 
             self.multiworld.regions.append(region)
                 
-        for connect in self._get_region_connection_table_for_scenario(self._get_character(), self._get_scenario()):
+        for connect in self._get_region_connection_table():
             # skip connecting on a one-sided connection because this should not be reachable backwards (and should be reachable otherwise)
             if 'limitation' in connect and connect['limitation'] in ['ONE_SIDED_DOOR']:
                 continue
@@ -343,8 +343,6 @@ class ResidentEvil3Remake(World):
     def fill_slot_data(self) -> Dict[str, Any]:
         slot_data = {
             "apworld_version": self.apworld_release_version,
-            "character": self._get_character(),
-            "scenario": self._get_scenario(),
             "difficulty": self._get_difficulty(),
             "unlocked_typewriters": self._format_option_text(self.options.unlocked_typewriters).split(", "),
             "ammo_pack_modifier": self._format_option_text(self.options.ammo_pack_modifier),
@@ -395,10 +393,9 @@ class ResidentEvil3Remake(World):
     def _format_option_text(self, option) -> str:
         return re.sub(r'\w+\(', '', str(option)).rstrip(')')
     
-    def _get_locations_for_scenario(self, character, scenario) -> dict:
+    def _get_locations(self) -> dict:
         locations_pool = {
             loc['id']: loc for _, loc in self.location_name_to_location.items()
-                if loc['character'] == character and loc['scenario'] == scenario
         }
         
         if self._format_option_text(self.options.difficulty) == 'Inferno':
@@ -451,23 +448,15 @@ class ResidentEvil3Remake(World):
         
         return locations_pool
 
-    def _get_region_table_for_scenario(self, character, scenario) -> list:
+    def _get_region_table(self) -> list:
         return [
-            region for region in Data.region_table 
-                if region['character'] == character and region['scenario'] == scenario
+            region for region in Data.region_table
         ]
     
-    def _get_region_connection_table_for_scenario(self, character, scenario) -> list:
+    def _get_region_connection_table(self) -> list:
         return [
             conn for conn in Data.region_connections_table
-                if conn['character'] == character and conn['scenario'] == scenario
         ]
-    
-    def _get_character(self) -> str:
-        return self._format_option_text(self.options.character).lower()
-    
-    def _get_scenario(self) -> str:
-        return self._format_option_text(self.options.scenario).lower()
     
     def _get_difficulty(self) -> str:
         return self._format_option_text(self.options.difficulty).lower()

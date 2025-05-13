@@ -1,0 +1,628 @@
+[
+    { 
+        "from": "Menu",
+        "to": "Subway Station",
+        "condition": {}
+    },
+	{ 
+        "from": "Subway Station",
+        "to": "South Avenue",
+        "condition": {}
+    },
+	{ 
+        "from": "South Avenue",
+        "to": "Main Avenue",
+        "condition": {}
+    },
+	{ 
+        "from": "Main Avenue",
+        "to": "Toy Shop",
+        "condition": {
+            "items": ["Lock Pick"]
+        }
+    },
+	{ 
+        "from": "Main Avenue",
+        "to": "Supermarket",
+        "condition": {
+            "items": ["Bolt Cutters"]
+        }
+    },
+	{ 
+        "from": "Main Avenue",
+        "to": "Shopping Plaza",
+        "condition": {}
+    },
+	{ 
+        "from": "Shopping Plaza",
+        "to": "Building Rooftop",
+        "condition": {}
+    },
+	{ 
+        "from": "Building Rooftop",
+        "to": "Main Avenue",
+        "limitation": "ONE_SIDED_DOOR"
+    },
+	{ 
+        "from": "Shopping Plaza",
+        "to": "Donut Shop",
+        "condition": {}
+    },
+	{ 
+        "from": "Donut Shop",
+        "to": "Business Street",
+        "condition": {}
+    },
+	{ 
+        "from": "Shopping Plaza",
+        "to": "Drugstore Storage",
+        "condition": {}
+    },
+	{ 
+        "from": "Drugstore Storage",
+        "to": "Business Street",
+        "condition": {}
+    },
+	{ 
+        "from": "Business Street",
+        "to": "Pharmacy",
+        "condition": {}
+    },
+	{ 
+        "from": "Business Street",
+        "to": "Subway Office",
+        "condition": {}
+    },
+	{ 
+        "from": "Business Street",
+        "to": "Side Alley",
+        "condition": {
+            "items": ["Bolt Cutters"]
+        }
+    },
+	{ 
+        "from": "Main Avenue",
+        "to": "Garage Entry",
+        "condition": {}
+    },
+	{ 
+        "from": "Garage Entry",
+        "to": "Tool Shop",
+        "condition": {
+            "items": ["Fire Hose"]
+        }
+    },
+	{ 
+        "from": "Tool Shop",
+        "to": "Garage",
+        "condition": {
+            "items": ["Bolt Cutters"]
+        }
+    },
+	{ 
+        "from": "Garage",
+        "to": "Back Alley",
+        "condition": {}
+    },
+	{ 
+        "from": "Back Alley",
+        "to": "Substation Street",
+        "condition": {}
+    },
+	{ 
+        "from": "Substation Street",
+        "to": "Substation",
+        "condition": {}
+    },
+	{ 
+        "from": "Substation",
+        "to": "Outdoor Area",
+        "condition": {}
+    },
+	{ 
+        "from": "Outdoor Area",
+        "to": "Power Maze",
+        "condition": {
+            "items": ["Lock Pick"]
+        }
+    },
+	{ 
+        "from": "Power Maze",
+        "to": "Nemesis Chase",
+        "condition": {
+            "items": ["Lock Pick", "Bolt Cutters", "Fire Hose"]
+        }
+    },
+	{ 
+        "from": "Nemesis Chase",
+        "to": "Sewer Entrance",
+        "condition": {}
+    },
+	{ 
+        "from": "Sewer Entrance",
+        "to": "Lower Waterway",
+        "condition": {}
+    },
+	{ 
+        "from": "Lower Waterway",
+        "to": "Manager's Office",
+        "condition": {}
+    },
+	{ 
+        "from": "Lower Waterway",
+        "to": "Overpass",
+        "condition": {}
+    },
+	{ 
+        "from": "Overpass",
+        "to": "East Tunnel",
+        "condition": {}
+    },
+	{ 
+        "from": "East Tunnel",
+        "to": "South Office",
+        "condition": {}
+    },
+	{ 
+        "from": "East Tunnel",
+        "to": "West Tunnel",
+        "condition": {}
+    },
+	{ 
+        "from": "West Tunnel",
+        "to": "Northwest Tunnel",
+        "condition": {}
+    },
+	{ 
+        "from": "West Tunnel",
+        "to": "Sewer Laboratory",
+        "condition": {}
+    },
+	{ 
+        "from": "East Tunnel",
+        "to": "Circular Stairs",
+        "condition": {}
+    },
+	{ 
+        "from": "Circular Stairs",
+        "to": "Upper Access",
+        "condition": {
+            "items": ["Battery Pack"]
+        }
+    },
+	{ 
+        "from": "Upper Access",
+        "to": "Circular Stairs",
+        "limitation": "ONE_SIDED_DOOR"
+    },
+	{ 
+        "from": "Upper Access",
+        "to": "Security Room",
+        "condition": {
+            "items": ["Battery Pack"]
+        }
+    },
+	{ 
+        "from": "Upper Access",
+        "to": "Overpass",
+        "limitation": "ONE_SIDED_DOOR"
+    },
+	{ 
+        "from": "Overpass",
+        "to": "Exit Tunnel",
+        "condition": {
+            "items": ["Battery Pack"]
+        }
+    },
+	{ 
+        "from": "Exit Tunnel",
+        "to": "Demolition Site 1st Floor",
+        "condition": {}
+    },
+	{ 
+        "from": "Demolition Site 1st Floor",
+        "to": "Demolition Site Storage",
+        "condition": {}
+    },
+	{ 
+        "from": "Demolition Site 1st Floor",
+        "to": "Demolition Site Roof",
+        "condition": {}
+    },
+	{ 
+        "from": "Demolition Site Roof",
+        "to": "Industry Street",
+        "condition": {}
+    },
+	{ 
+        "from": "Industry Street",
+        "to": "Outside Gun Shop",
+        "condition": {}
+    },
+	{ 
+        "from": "Outside Gun Shop",
+        "to": "Gun Shop",
+        "condition": {}
+    },
+	{ 
+        "from": "Outside Gun Shop",
+        "to": "Small Alley",
+        "condition": {
+            "items": ["Lock Pick", "Bolt Cutters", "Fire Hose", "Battery Pack", "Kendo Gate Key"]
+        }
+    },
+	{ 
+        "from": "Small Alley",
+        "to": "House",
+        "condition": {}
+    },
+	{ 
+        "from": "House",
+        "to": "Scaffolding",
+        "condition": {}
+    },
+	{ 
+        "from": "Scaffolding",
+        "to": "Subway Station",
+        "limitation": "ONE_SIDED_DOOR"
+    },
+	{ 
+        "from": "Subway Station",
+        "to": "West Courtyard",
+        "condition": {
+            "items": ["Lock Pick", "Bolt Cutters", "Fire Hose", "Battery Pack", "Kendo Gate Key"]
+        }
+    },
+	{ 
+        "from": "West Courtyard",
+        "to": "Guard Room",
+        "condition": {}
+    },
+	{ 
+        "from": "West Courtyard",
+        "to": "East Courtyard",
+        "condition": {}
+    },
+	{ 
+        "from": "West Courtyard",
+        "to": "RPD Entrance",
+        "condition": {}
+    },
+	{ 
+        "from": "RPD Entrance",
+        "to": "Main Lobby",
+        "condition": {}
+    },
+	{ 
+        "from": "Main Lobby",
+        "to": "RPD Reception",
+        "condition": {}
+    },
+	{ 
+        "from": "RPD Reception",
+        "to": "Operations Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Operations Room",
+        "to": "Operations Room 2",
+        "condition": {}
+    },
+	{ 
+        "from": "Operations Room 2",
+        "to": "West Hallway 1F",
+        "condition": {}
+    },
+	{ 
+        "from": "West Hallway 1F",
+        "to": "Safety Deposit Room",
+        "condition": {
+            "items": ["Safety Deposit Key"]
+        }
+    },
+	{ 
+        "from": "West Hallway 1F",
+        "to": "West Office",
+        "condition": {}
+    },
+	{ 
+        "from": "West Hallway 1F",
+        "to": "Darkroom",
+        "condition": {}
+    },
+	{ 
+        "from": "West Hallway 1F",
+        "to": "West Hallway 3F",
+        "condition": {}
+    },
+	{ 
+        "from": "West Hallway 1F",
+        "to": "Shower Room",
+        "condition": {}
+    },
+    { 
+        "from": "Shower Room",
+        "to": "West Hallway 2F",
+        "condition": {
+            "items": ["Safety Deposit Key", "Battery"]
+        }
+    },
+    { 
+        "from": "West Hallway 2F",
+        "to": "STARS Office",
+        "condition": {}
+    },
+	{ 
+        "from": "STARS Office",
+        "to": "Subway Tunnels",
+        "condition": {}
+    },
+	{ 
+        "from": "Subway Tunnels",
+        "to": "Dilapidated Shelter",
+        "condition": {}
+    },
+	{ 
+        "from": "Subway Tunnels",
+        "to": "Dilapidated Shelter",
+        "condition": {}
+    },
+	{ 
+        "from": "Dilapidated Shelter",
+        "to": "Promenade",
+        "condition": {}
+    },
+	{ 
+        "from": "Promenade",
+        "to": "Plaza",
+        "condition": {}
+    },
+	{ 
+        "from": "Plaza",
+        "to": "Makeshift Sickroom",
+        "condition": {}
+    },
+	{ 
+        "from": "Makeshift Sickroom",
+        "to": "Hospital Lobby",
+        "condition": {}
+    },
+	{ 
+        "from": "Hospital Lobby",
+        "to": "Back Office",
+        "condition": {
+            "items": ["Vaccine Sample"]
+        }
+    },
+	{ 
+        "from": "Hospital Lobby",
+        "to": "Hospital Reception",
+        "condition": {}
+    },
+	{ 
+        "from": "Hospital Reception",
+        "to": "Main Corridor",
+        "condition": {}
+    },
+	{ 
+        "from": "Main Corridor",
+        "to": "Laboratory Reception",
+        "condition": {}
+    },
+	{ 
+        "from": "Laboratory Reception",
+        "to": "Emergency Entrance",
+        "condition": {}
+    },
+	{ 
+        "from": "Emergency Entrance",
+        "to": "Operating Room",
+        "condition": {
+            "items": ["Hospital ID Card"]
+        }
+    },
+	{ 
+        "from": "Main Corridor",
+        "to": "Main Corridor 2F",
+        "condition": {}
+    },
+	{ 
+        "from": "Main Corridor 2F",
+        "to": "Courtyard",
+        "condition": {}
+    },
+	{ 
+        "from": "Courtyard",
+        "to": "Main Corridor",
+        "limitation": "ONE_SIDED_DOOR"
+    },
+	{ 
+        "from": "Main Corridor 2F",
+        "to": "Records Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Main Corridor 2F",
+        "to": "Staff Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Staff Room",
+        "to": "Locker Room",
+        "condition": {
+            "items": ["Locker Room Key"]
+        }
+    },
+	{ 
+        "from": "Main Corridor 2F",
+        "to": "Nurse Station",
+        "condition": {}
+    },
+	{ 
+        "from": "Nurse Station",
+        "to": "Linen Room",
+        "condition": {
+            "items": ["Hospital ID Card"]
+        }
+    },
+	{ 
+        "from": "Nurse Station",
+        "to": "Sickroom",
+        "condition": {}
+    },
+	{ 
+        "from": "Linen Room",
+        "to": "Main Corridor 2F",
+        "limitation": "ONE_SIDED_DOOR"
+    },
+	{ 
+        "from": "Linen Room",
+        "to": "Treatment Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Laboratory Reception",
+        "to": "Research Laboratory",
+        "condition": {
+            "items": ["Tape Player", "Cassette Tape", "Hospital ID Card", "Locker Room Key"]
+        }
+    },
+	{ 
+        "from": "Research Laboratory",
+        "to": "Sample Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Hospital Reception",
+        "to": "Generator Room",
+        "condition": {
+            "items": ["Vaccine Sample", "Lock Pick"]
+        }
+    },
+	{ 
+        "from": "Generator Room",
+        "to": "Loading Bay",
+        "condition": {}
+    },
+	{ 
+        "from": "Loading Bay",
+        "to": "Bioweapons Shipping",
+        "condition": {}
+    },
+	{ 
+        "from": "Bioweapons Shipping",
+        "to": "Shipping Office",
+        "condition": {}
+    },
+	{ 
+        "from": "Shipping Office",
+        "to": "Warehouse",
+        "condition": {}
+    },
+	{ 
+        "from": "Warehouse",
+        "to": "Small Storage Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Small Storage Room",
+        "to": "Shipping Office",
+        "limitation": "ONE_SIDED_DOOR"
+    },
+	{ 
+        "from": "Warehouse",
+        "to": "Surveillance Room",
+        "condition": {
+            "items": ["Fuse 1", "Fuse 2", "Fuse 3"]
+        }
+    },
+	{ 
+        "from": "Surveillance Room",
+        "to": "Laboratory Hallway",
+        "condition": {}
+    },
+	{ 
+        "from": "Laboratory Hallway",
+        "to": "Laboratory Storage",
+        "condition": {}
+    },
+	{ 
+        "from": "Laboratory Hallway",
+        "to": "Laboratory Hallway 2F",
+        "condition": {}
+    },
+	{ 
+        "from": "Laboratory Hallway 2F",
+        "to": "Experiment Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Laboratory Hallway",
+        "to": "Experiment Storage",
+        "condition": {
+            "items": ["Override Key"]
+        }
+    },
+	{ 
+        "from": "Experiment Storage",
+        "to": "Server Room 2F",
+        "condition": {}
+    },
+	{ 
+        "from": "Server Room 2F",
+        "to": "Server Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Server Room",
+        "to": "Bioweapon Incubation Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Bioweapon Incubation Room",
+        "to": "Walkway",
+        "condition": {}
+    },
+	{ 
+        "from": "Walkway",
+        "to": "Incubation Lab",
+        "condition": {}
+    },
+	{ 
+        "from": "Experiment Storage",
+        "to": "Lab 1",
+        "condition": {}
+    },
+	{ 
+        "from": "Experiment Room",
+        "to": "Worker's Break Room",
+        "condition": {
+            "items": ["Liquid-Filled Test Tube", "Culture Sample", "Vaccine"]
+        }
+    },
+	{ 
+        "from": "Worker's Break Room",
+        "to": "Disposable Chamber Walkway",
+        "condition": {}
+    },
+	{ 
+        "from": "Disposable Chamber Walkway",
+        "to": "Disposable Chamber",
+        "condition": {}
+    },
+	{ 
+        "from": "Disposable Chamber",
+        "to": "Staff Break Room",
+        "condition": {}
+    },
+	{ 
+        "from": "Staff Break Room",
+        "to": "Weapons Testing Area",
+        "condition": {}
+    },
+	{ 
+        "from": "Weapons Testing Area",
+        "to": "Helipad",
+        "condition": {}
+    }
+]

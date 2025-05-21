@@ -1,0 +1,457 @@
+[
+  {
+    "type": "Key",
+    "name": "Fire Hose",
+    "decimal": "181",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Bolt Cutters",
+    "decimal": "152",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Lock Pick",
+    "decimal": "151",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Battery Pack",
+    "decimal": "186",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Kendo Gate Key",
+    "decimal": "182",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "ID Card",
+    "decimal": "164",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Safety Deposit Key",
+    "decimal": "162",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Battery",
+    "decimal": "161",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Hospital ID Card",
+    "decimal": "211",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Cassette Tape",
+    "decimal": "213",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Tape Player",
+    "decimal": "214",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Vaccine Sample",
+    "decimal": "215",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Electronic Gadget",
+    "decimal": "165",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Detonator",
+    "decimal": "217",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Locker Room Key",
+    "decimal": "218",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Fuse 1",
+    "decimal": "224",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Fuse 2",
+    "decimal": "223",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Fuse 3",
+    "decimal": "222",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Override Key",
+    "decimal": "232",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Culture Sample",
+    "decimal": "234",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Liquid-Filled Test Tube",
+    "decimal": "235",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Vaccine",
+    "decimal": "233",
+    "count": 1,
+    "progression": 1
+  },
+
+  {
+    "type": "Gating",
+    "name": "Green Jewel",
+    "decimal": "187",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Gating",
+    "name": "Blue Jewel",
+    "decimal": "188",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Gating",
+    "name": "Red Jewel",
+    "decimal": "189",
+    "count": 1,
+    "progression": 1
+  },
+
+  {
+    "type": "Recovery",
+    "name": "First Aid Spray",
+    "decimal": "1",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Recovery",
+    "name": "Green Herb",
+    "decimal": "2",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Recovery",
+    "name": "Red Herb",
+    "decimal": "3",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "type": "Crafting",
+    "name": "Gunpowder",
+    "decimal": "61",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Crafting",
+    "name": "High-Grade Gunpowder",
+    "decimal": "62",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Crafting",
+    "name": "Explosive A",
+    "decimal": "63",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Crafting",
+    "name": "Explosive B",
+    "decimal": "64",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "type": "Consumable",
+    "name": "Hip Pouch",
+    "decimal": "261",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "type": "Weapon",
+    "name": "G19",
+    "decimal": "1",
+    "count": 10,
+    "progression": 0,
+    "ammo": "Handgun Ammo"
+  },
+  {
+    "type": "Weapon",
+    "name": "G18",
+    "decimal": "2",
+    "count": 33,
+    "progression": 0,
+    "ammo": "Handgun Ammo"
+  },
+  {
+    "type": "Weapon",
+    "name": "M3 Shotgun",
+    "decimal": "11",
+    "count": 4,
+    "progression": 0,
+    "ammo": "Shotgun Shells"
+  },
+  {
+    "type": "Weapon",
+    "name": "Assault Rifle",
+    "decimal": "21",
+    "count": 32,
+    "progression": 0,
+    "ammo": "Assault Rifle Ammo"
+  },
+  {
+    "type": "Weapon",
+    "name": "MAG",
+    "decimal": "31",
+    "count": 8,
+    "progression": 0,
+    "ammo": "MAG Ammo"
+  },
+  {
+    "type": "Weapon",
+    "name": "MGL Grenade Launcher",
+    "decimal": "42",
+    "count": 6,
+    "progression": 0,
+    "ammo": "Explosive Rounds"
+  },
+
+  {
+    "type": "Subweapon",
+    "name": "Hand Grenade",
+    "decimal": "65",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Subweapon",
+    "name": "Flash Grenade",
+    "decimal": "66",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "type": "Upgrade",
+    "name": "Dot Sight - G19",
+    "decimal": "77",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Extended Mag - G19",
+    "decimal": "78",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Moderator - G19",
+    "decimal": "76",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Tactical Stock - M3",
+    "decimal": "92",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Semi-Auto Barrel - M3",
+    "decimal": "91",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Shell Holder - M3",
+    "decimal": "93",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Scope - Assault Rifle",
+    "decimal": "96",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Dual Magazine - Assault Rifle",
+    "decimal": "97",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Tactical Grip - Assault Rifle",
+    "decimal": "98",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Extended Barrel - MAG",
+    "decimal": "101",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "type": "Ammo",
+    "name": "Handgun Ammo",
+    "decimal": "31",
+    "count": 10,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Shotgun Shells",
+    "decimal": "32",
+    "count": 5,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Assault Rifle Ammo",
+    "decimal": "33",
+    "count": 40,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "MAG Ammo",
+    "decimal": "34",
+    "count": 5,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Mine Rounds",
+    "decimal": "36",
+    "count": 3,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Explosive Rounds",
+    "decimal": "37",
+    "count": 3,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Flame Rounds",
+    "decimal": "38",
+    "count": 3,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Acid Rounds",
+    "decimal": "39",
+    "count": 3,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Supply Case - Shotgun Shells",
+    "decimal": "313",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Supply Case - Flame Rounds",
+    "decimal": "314",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "type": "Trap",
+    "name": "Damage Trap",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "name": "Victory",
+    "id": null,
+    "progression": 1
+  }
+]

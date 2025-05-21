@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Menu",
+    "zone_id": 1
+  },
+  {
+    "name": "Subway Station",
+    "zone_id": 1
+  },
+  {
+    "name": "South Avenue",
+    "zone_id": 1
+  },
+  {
+    "name": "Main Avenue",
+    "zone_id": 1
+  },
+  {
+    "name": "Toy Shop",
+    "zone_id": 1
+  },
+  {
+    "name": "Supermarket",
+    "zone_id": 1
+  },
+  {
+    "name": "Shopping Plaza",
+    "zone_id": 1
+  },
+  {
+    "name": "Building Rooftop",
+    "zone_id": 1
+  },
+  {
+    "name": "Donut Shop",
+    "zone_id": 1
+  },
+  {
+    "name": "Drugstore Storage",
+    "zone_id": 1
+  },
+  {
+    "name": "Business Street",
+    "zone_id": 1
+  },
+  {
+    "name": "Pharmacy",
+    "zone_id": 1
+  },
+  {
+    "name": "Subway Office",
+    "zone_id": 1
+  },
+  {
+    "name": "Side Alley",
+    "zone_id": 1
+  },
+  {
+    "name": "Garage Entry",
+    "zone_id": 1
+  },
+  {
+    "name": "Tool Shop",
+    "zone_id": 1
+  },
+  {
+    "name": "Garage",
+    "zone_id": 1
+  },
+  {
+    "name": "Back Alley",
+    "zone_id": 1
+  },
+  {
+    "name": "Substation Street",
+    "zone_id": 1
+  },
+  {
+    "name": "Substation",
+    "zone_id": 1
+  },
+  {
+    "name": "Outdoor Area",
+    "zone_id": 1
+  },
+  {
+    "name": "Power Maze",
+    "zone_id": 1
+  },
+  {
+    "name": "Nemesis Chase",
+    "zone_id": 1
+  },
+  {
+    "name": "Demolition Site 1st Floor",
+    "zone_id": 1
+  },
+  {
+    "name": "Demolition Site Storage",
+    "zone_id": 1
+  },
+  {
+    "name": "Demolition Site Roof",
+    "zone_id": 1
+  },
+  {
+    "name": "Industry Street",
+    "zone_id": 1
+  },
+  {
+    "name": "Outside Gun Shop",
+    "zone_id": 1
+  },
+  {
+    "name": "Gun Shop",
+    "zone_id": 1
+  },
+  {
+    "name": "Small Alley",
+    "zone_id": 1
+  },
+  {
+    "name": "House",
+    "zone_id": 1
+  },
+  {
+    "name": "Scaffolding",
+    "zone_id": 1
+  },
+
+  {
+    "name": "Sewer Entrance",
+    "zone_id": 2
+  },
+  {
+    "name": "Lower Waterway",
+    "zone_id": 2
+  },
+  {
+    "name": "Manager's Office",
+    "zone_id": 2
+  },
+  {
+    "name": "Overpass",
+    "zone_id": 2
+  },
+  {
+    "name": "East Tunnel",
+    "zone_id": 2
+  },
+  {
+    "name": "Circular Stairs",
+    "zone_id": 2
+  },
+  {
+    "name": "South Office",
+    "zone_id": 2
+  },
+  {
+    "name": "West Tunnel",
+    "zone_id": 2
+  },
+  {
+    "name": "Northwest Tunnel",
+    "zone_id": 2
+  },
+  {
+    "name": "Sewer Laboratory",
+    "zone_id": 2
+  },
+  {
+    "name": "Upper Access",
+    "zone_id": 2
+  },
+  {
+    "name": "Security Room",
+    "zone_id": 2
+  },
+  {
+    "name": "Exit Tunnel",
+    "zone_id": 2
+  },
+
+  {
+    "name": "West Courtyard",
+    "zone_id": 3
+  },
+  {
+    "name": "East Courtyard",
+    "zone_id": 3
+  },
+  {
+    "name": "Guard Room",
+    "zone_id": 3
+  },
+  {
+    "name": "RPD Entrance",
+    "zone_id": 3
+  },
+  {
+    "name": "Main Lobby",
+    "zone_id": 3
+  },
+  {
+    "name": "RPD Reception",
+    "zone_id": 3
+  },
+  {
+    "name": "Operations Room",
+    "zone_id": 3
+  },
+  {
+    "name": "Operations Room 2",
+    "zone_id": 3
+  },
+  {
+    "name": "West Hallway 1F",
+    "zone_id": 3
+  },
+  {
+    "name": "Safety Deposit Room",
+    "zone_id": 3
+  },
+  {
+    "name": "West Office",
+    "zone_id": 3
+  },
+  {
+    "name": "Darkroom",
+    "zone_id": 3
+  },
+  {
+    "name": "West Hallway 3F",
+    "zone_id": 3
+  },
+  {
+    "name": "Shower Room",
+    "zone_id": 3
+  },
+  {
+    "name": "West Hallway 2F",
+    "zone_id": 3
+  },
+  {
+    "name": "STARS Office",
+    "zone_id": 3
+  },
+
+  {
+    "name": "Subway Tunnels",
+    "zone_id": 4
+  },
+  {
+    "name": "Dilapidated Shelter",
+    "zone_id": 4
+  },
+  {
+    "name": "Promenade",
+    "zone_id": 4
+  },
+  {
+    "name": "Plaza",
+    "zone_id": 4
+  },
+
+  {
+    "name": "Makeshift Sickroom",
+    "zone_id": 5
+  },
+  {
+    "name": "Hospital Lobby",
+    "zone_id": 5
+  },
+  {
+    "name": "Back Office",
+    "zone_id": 5
+  },
+  {
+    "name": "Hospital Reception",
+    "zone_id": 5
+  },
+  {
+    "name": "Main Corridor",
+    "zone_id": 5
+  },
+  {
+    "name": "Laboratory Reception",
+    "zone_id": 5
+  },
+  {
+    "name": "Emergency Entrance",
+    "zone_id": 5
+  },
+  {
+    "name": "Operating Room",
+    "zone_id": 5
+  },
+  {
+    "name": "Main Corridor 2F",
+    "zone_id": 5
+  },
+  {
+    "name": "Courtyard",
+    "zone_id": 5
+  },
+  {
+    "name": "Records Room",
+    "zone_id": 5
+  },
+  {
+    "name": "Staff Room",
+    "zone_id": 5
+  },
+  {
+    "name": "Locker Room",
+    "zone_id": 5
+  },
+  {
+    "name": "Nurse Station",
+    "zone_id": 5
+  },
+  {
+    "name": "Linen Room",
+    "zone_id": 5
+  },
+  {
+    "name": "Sickroom",
+    "zone_id": 5
+  },
+  {
+    "name": "Treatment Room",
+    "zone_id": 5
+  },
+  {
+    "name": "Research Laboratory",
+    "zone_id": 5
+  },
+  {
+    "name": "Sample Room",
+    "zone_id": 5
+  },
+  {
+    "name": "Generator Room",
+    "zone_id": 5
+  },
+  {
+    "name": "Loading Bay",
+    "zone_id": 5
+  },
+  {
+    "name": "Bioweapons Shipping",
+    "zone_id": 5
+  },
+  {
+    "name": "Shipping Office",
+    "zone_id": 5
+  },
+  {
+    "name": "Warehouse",
+    "zone_id": 5
+  },
+  {
+    "name": "Small Storage Room",
+    "zone_id": 5
+  },
+  {
+    "name": "Surveillance Room",
+    "zone_id": 5
+  },
+
+  {
+    "name": "Laboratory Hallway",
+    "zone_id": 6
+  },
+  {
+    "name": "Laboratory Storage",
+    "zone_id": 6
+  },
+  {
+    "name": "Laboratory Hallway 2F",
+    "zone_id": 6
+  },
+  {
+    "name": "Experiment Room",
+    "zone_id": 6
+  },
+  {
+    "name": "Experiment Storage",
+    "zone_id": 6
+  },
+  {
+    "name": "Server Room",
+    "zone_id": 6
+  },
+  {
+    "name": "Server Room 2F",
+    "zone_id": 6
+  },
+  {
+    "name": "Bioweapon Incubation Room",
+    "zone_id": 6
+  },
+  {
+    "name": "Walkway",
+    "zone_id": 6
+  },
+  {
+    "name": "Incubation Lab",
+    "zone_id": 6
+  },
+  {
+    "name": "Lab 1",
+    "zone_id": 6
+  },
+  {
+    "name": "Worker's Break Room",
+    "zone_id": 6
+  },
+  {
+    "name": "Disposable Chamber Walkway",
+    "zone_id": 6
+  },
+  {
+    "name": "Disposable Chamber",
+    "zone_id": 6
+  },
+  {
+    "name": "Staff Break Room",
+    "zone_id": 6
+  },
+  {
+    "name": "Weapons Testing Area",
+    "zone_id": 6
+  },
+  {
+    "name": "Helipad",
+    "zone_id": 6
+  }
+]

@@ -27,9 +27,9 @@ class Data:
         hardcore_offset = 400 # put all hardcore-only locations after standard location spots
         nightmare_offset = 600 # put all nightmare-only locations after hardcore location spots
         inferno_offset = 800 # put all inferno-only locations in the last 100 location spots
-        suffix_hardcore = ' ({}{}H)' # makes hardcore location variations unique
-        suffix_nightmare = ' ({}{}N)' # makes nightmare location variations unique
-        suffix_inferno = ' ({}{}I)' # makes inferno location variations unique
+        suffix_hardcore = ' (H)' # makes hardcore location variations unique
+        suffix_nightmare = ' (N)' # makes nightmare location variations unique
+        suffix_inferno = ' (I)' # makes inferno location variations unique
 
         location_start = item_start = 3300000000
 

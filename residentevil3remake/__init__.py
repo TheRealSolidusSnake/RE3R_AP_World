@@ -402,7 +402,7 @@ class ResidentEvil3Remake(World):
             locations_pool = { id: loc for id, loc in locations_pool.items() if loc['difficulty'] != 'hardcore' and loc['difficulty'] != 'nightmare'}
 
             for inferno_loc in [loc for loc in locations_pool.values() if loc['difficulty'] == 'inferno']:
-                check_loc_region = re.sub(r'I\)$', ')', inferno_loc['region']) # take the Inferno off the region name
+                check_loc_region = re.sub(r'(I)', inferno_loc['region']) # take the Inferno off the region name
                 check_loc_name = inferno_loc['name']
 
                 # if there's a location with matching name and region, remove it
@@ -415,7 +415,7 @@ class ResidentEvil3Remake(World):
             locations_pool = { id: loc for id, loc in locations_pool.items() if loc['difficulty'] != 'hardcore' and loc['difficulty'] != 'inferno'}
 
             for nightmare_loc in [loc for loc in locations_pool.values() if loc['difficulty'] == 'nightmare']:
-                check_loc_region = re.sub(r'N\)$', ')', nightmare_loc['region']) # take the Nightmare off the region name
+                check_loc_region = re.sub(r'(N)', nightmare_loc['region']) # take the Nightmare off the region name
                 check_loc_name = nightmare_loc['name']
 
                 # if there's a location with matching name and region, remove it
@@ -428,7 +428,7 @@ class ResidentEvil3Remake(World):
             locations_pool = { id: loc for id, loc in locations_pool.items() if loc['difficulty'] != 'nightmare' and loc['difficulty'] != 'inferno'}
 
             for hardcore_loc in [loc for loc in locations_pool.values() if loc['difficulty'] == 'hardcore']:
-                check_loc_region = re.sub(r'H\)$', ')', hardcore_loc['region']) # take the Hardcore off the region name
+                check_loc_region = re.sub(r'(H)', hardcore_loc['region']) # take the Hardcore off the region name
                 check_loc_name = hardcore_loc['name']
 
                 # if there's a location with matching name and region, remove it

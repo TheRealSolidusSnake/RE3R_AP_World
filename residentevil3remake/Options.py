@@ -3,20 +3,6 @@ from Options import (Choice, OptionList, NamedRange,
     StartInventoryPool,
     PerGameCommonOptions, DeathLinkMixin)
 
-class Character(Choice):
-    """Jill: Was almost a sandwich.
-    """
-    display_name = "Character to Play"
-    option_jill = 0
-    default = 0
-
-class Scenario(Choice):
-    """A: Capcom did us dirty for this one.
-    """
-    display_name = "Scenario to Play"
-    option_a = 0
-    default = 0
-
 class Difficulty(Choice):
     """Standard: Most people should play on this.
     Hardcore: Slightly tougher, but not by much. 
@@ -235,8 +221,6 @@ class StartInventoryFromPoolMixin:
 
 @dataclass
 class RE3ROptions(StartInventoryFromPoolMixin, DeathLinkMixin, PerGameCommonOptions):
-    character: Character
-    scenario: Scenario
     difficulty: Difficulty
     unlocked_typewriters: UnlockedTypewriters
     starting_hip_pouches: StartingHipPouches

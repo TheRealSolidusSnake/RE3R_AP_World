@@ -6,16 +6,14 @@
 - Resident Evil 3 Remake AP Client 
 
 ## Optional Visual Setup Guide
-- [RE3R Visual Guide](https://therealsolidussnake.github.io/RE3R_AP_SetupGuide) - note that it only covers non-RTX at the moment but you can substitute
-the steps with RTX versions.
+- [RE3R Visual Guide](https://therealsolidussnake.github.io/RE3R_AP_SetupGuide) - The Non-RTX client *does* support RTX now, the website may need updating to reflect that
 
 ## Instructions
 
 1. Install [Praydog REFramework](https://github.com/praydog/REFramework/releases) - make sure to grab the proper one for your installed RE3R
 (You don't need to install the VR .dll files if you do not plan on using VR features)
 
-2. Install our client [Non-RTX](https://github.com/TheRealSolidusSnake/RE3R_Non-RTX_AP_Client/releases) or
-[RTX](https://github.com/TheRealSolidusSnake/RE3R_RTX_AP_Client/releases), again making sure to grab the proper one for your installed RE3R
+2. Install our client [All-In-One Client](https://github.com/TheRealSolidusSnake/RE3R_Non-RTX_AP_Client/releases)
 
 3. You should now be good to go. See below for more details on how to use the mod and connect to an Archipelago game.
 

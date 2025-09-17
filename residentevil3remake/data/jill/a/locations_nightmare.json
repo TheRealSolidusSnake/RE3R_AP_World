@@ -22,8 +22,7 @@
             "Fuse 2",
             "Fuse 3",
             "Override Key",
-            "Culture Sample",
-            "Liquid-Filled Test Tube"
+            "Culture Sample"
         ]
     },
     {
@@ -49,8 +48,7 @@
             "Fuse 2",
             "Fuse 3",
             "Override Key",
-            "Culture Sample",
-            "Liquid-Filled Test Tube"
+            "Culture Sample"
         ]
     },
     {
@@ -81,7 +79,7 @@
         "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_200_T-Junction_Area/Nightmare"
     },
     {
-        "name": "Box By Donut Shop",
+        "name": "Box by Donut Shop",
         "region": "Shopping Plaza",
         "original_item": "High-Grade Gunpowder",
         "condition": {},
@@ -99,7 +97,7 @@
         "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem/Nightmare"
     },
     {
-        "name": "Downed Zombie By Entrance",
+        "name": "Downed Zombie by Entrance",
         "region": "Subway Office",
         "original_item": "Hand Grenade",
         "condition": {},
@@ -126,7 +124,7 @@
         "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/KeyItem/Nightmare"
     },
     {
-        "name": "Power Panel By Scaffolding",
+        "name": "Power Panel by Scaffolding",
         "region": "Power Maze",
         "original_item": "Red Jewel",
         "condition": {},
@@ -146,8 +144,7 @@
             "Fuse 2",
             "Fuse 3",
             "Override Key",
-            "Culture Sample",
-            "Liquid-Filled Test Tube"
+            "Culture Sample"
         ]
     },
     {
@@ -170,12 +167,11 @@
             "Fuse 2",
             "Fuse 3",
             "Override Key",
-            "Culture Sample",
-            "Liquid-Filled Test Tube"
+            "Culture Sample"
         ]
     },
     {
-        "name": "Near Door On Box",
+        "name": "Near Door on Box",
         "region": "Guard Room",
         "original_item": "ID Card",
         "condition": {},
@@ -193,8 +189,7 @@
             "Fuse 2",
             "Fuse 3",
             "Override Key",
-            "Culture Sample",
-            "Liquid-Filled Test Tube"
+            "Culture Sample"
         ]
     },
     {
@@ -219,8 +214,7 @@
             "Fuse 2",
             "Fuse 3",
             "Override Key",
-            "Culture Sample",
-            "Liquid-Filled Test Tube"
+            "Culture Sample"
         ]
     },
     {
@@ -233,7 +227,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/04_Room02"
     },
     {
-        "name": "Counter By Door",
+        "name": "Counter by Door",
         "region": "Supermarket",
         "remove": true
     },

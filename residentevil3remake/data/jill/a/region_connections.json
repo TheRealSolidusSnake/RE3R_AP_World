@@ -363,11 +363,6 @@
         "condition": {}
     },
 	{ 
-        "from": "Subway Tunnels",
-        "to": "Dilapidated Shelter",
-        "condition": {}
-    },
-	{ 
         "from": "Dilapidated Shelter",
         "to": "Promenade",
         "condition": {}

@@ -4,16 +4,27 @@ import typing
 from typing import Dict, Any, TextIO
 from Utils import visualize_regions
 
-from BaseClasses import ItemClassification, Item, Location, Region, CollectionState
-from worlds.AutoWorld import World
+from BaseClasses import ItemClassification, Item, Location, Region, CollectionState, Tutorial
+from worlds.AutoWorld import World, WebWorld
 from ..generic.Rules import set_rule
 from Fill import fill_restrictive
+from Options import OptionError
 
 from .Data import Data
 from .Options import RE3ROptions
 
 Data.load_data('jill', 'a')
 
+class UmbrellaNet(WebWorld):
+    theme = "partyTime"
+    tutorials = [Tutorial(
+        "Multiworld Setup Guide",
+        "A guide for setting up Resident Evil 3 Remake to be played in Archipelago.",
+        "English",
+        "re3r_en.md",
+        "setup/en",
+        ["TheRealSolidusSnake"]
+    )]
 
 class RE3RLocation(Location):
     def stack_names(*area_names):
@@ -39,8 +50,8 @@ class ResidentEvil3Remake(World):
     game: str = "Resident Evil 3 Remake"
 
     data_version = 2
-    required_client_version = (0, 5, 0)
-    apworld_release_version = "0.2.3" # defined to show in spoiler log
+    required_client_version = (0, 6, 3)
+    apworld_release_version = "0.2.5" # defined to show in spoiler log
 
     item_id_to_name = { item['id']: item['name'] for item in Data.item_table }
     item_name_to_id = { item['name']: item['id'] for item in Data.item_table }
@@ -55,6 +66,7 @@ class ResidentEvil3Remake(World):
 
     options_dataclass = RE3ROptions
     options: RE3ROptions
+    web = UmbrellaNet()
 
     def generate_early(self): # check weapon randomization before locations and items are processed, so we can swap non-randomized items as well
         # start with the normal locations per player for pool, then overwrite with weapon rando if needed
@@ -104,7 +116,7 @@ class ResidentEvil3Remake(World):
                     location.item_rule = lambda item: not item.advancement
 
                 if 'allow_item' in location_data and location_data['allow_item']:
-                    current_item_rule = not location.item_rule or None
+                    current_item_rule = location.item_rule or None
 
                     if not current_item_rule:
                         current_item_rule = lambda x: True
@@ -147,7 +159,8 @@ class ResidentEvil3Remake(World):
         handguns_enabled = self._format_option_text(self.options.oops_all_handguns) == 'True'
 
         if grenades_enabled and handguns_enabled:
-            raise Exception("Conflicting options: 'Oops! All Grenades' and 'Oops! All Handguns' cannot both be enabled at the same time.")
+            raise OptionError(f"{self.player_name}'s Resident Evil 3 Remake"
+                              f" cannot have both Oops All options enabled at the same time, please choose one")
 
         # Proceed with the rest of the function
         scenario_locations = self.source_locations[self.player]
@@ -247,11 +260,6 @@ class ResidentEvil3Remake(World):
                 pool.remove(spot)
                 pool.append(trap_to_place)
 
-        early_items = {"ID Card": len([i for i in pool if i.name == "ID Card"])}
-
-        for item_name, item_qty in early_items.items():
-            if item_qty > 0:
-                self.multiworld.early_items[self.player][item_name] = item_qty
 
     # Add option for early/extras for Downtown items or Sewer Stuff, if configured
         # doing this before "oops all X" to make use of extra Handgun Ammo spots, too

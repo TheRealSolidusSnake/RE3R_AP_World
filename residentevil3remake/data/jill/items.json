@@ -414,14 +414,14 @@
   },
   {
     "type": "Ammo",
-    "name": "Flame Rounds",
+    "name": "Acid Rounds",
     "decimal": "38",
     "count": 3,
     "progression": 0
   },
   {
     "type": "Ammo",
-    "name": "Acid Rounds",
+    "name": "Flame Rounds",
     "decimal": "39",
     "count": 3,
     "progression": 0

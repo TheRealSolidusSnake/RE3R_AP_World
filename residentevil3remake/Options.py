@@ -104,9 +104,7 @@ class AllowProgressionInNEST(Choice):
 
     False: (Default) Will place useful/junk items into NEST, the non-randomized locations will stay the same.
 
-    True: Progression can be placed in NEST, remind everyone it was your fault when you are holding them hostage.
-
-    NOTE - This option only affects multiworlds."""
+    True: Progression can be placed in NEST, remind everyone it was your fault when you are holding them hostage."""
     display_name = "Allow Progression in NEST"
     option_false = 0
     option_true = 1
@@ -150,7 +148,7 @@ class OopsAllGrenades(Choice):
     
 class OopsAllHandguns(Choice):
     """Enabling this swaps all weapons, ammo, subweapons, upgrades and explosive/gunpowder to Handgun Ammo.
-    (Except your starting weapon)"""
+    (Except your starting weapon and it's upgrades, and the G18 Handgun)"""
     display_name = "Oops! All Handguns"
     option_false = 0
     option_true = 1

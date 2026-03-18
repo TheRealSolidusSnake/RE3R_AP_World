@@ -3,31 +3,19 @@ from Options import (Choice, OptionList, NamedRange,
     StartInventoryPool,
     PerGameCommonOptions, DeathLinkMixin)
 
-class Character(Choice):
-    """Jill: Was almost a sandwich.
-    """
-    display_name = "Character to Play"
-    option_jill = 0
-    default = 0
-
-class Scenario(Choice):
-    """A: Capcom did us dirty for this one.
-    """
-    display_name = "Scenario to Play"
-    option_a = 0
-    default = 0
-
 class Difficulty(Choice):
-    """Standard: Most people should play on this.
+    """Assisted: ... Okay, fine. No judgment here. :)
+    Standard: Most people should play on this.
     Hardcore: Slightly tougher, but not by much. 
-    Nightmare: It actually rains zombies, Kappa
-    Inferno: Hope your name isn't Gohan, because you need to dodge... a lot"""
+    Nightmare: It actually rains zombies, Kappa.
+    Inferno: Hope your name isn't Gohan, because you need to dodge.. a lot."""
     display_name = "Difficulty to Play On"
-    option_standard = 0
-    option_hardcore = 1
-    option_nightmare = 2
-    option_inferno = 3
-    default = 0
+    option_assisted = 0
+    option_standard = 1
+    option_hardcore = 2
+    option_nightmare = 3
+    option_inferno = 4
+    default = 1
 
 class UnlockedTypewriters(OptionList):
     """Specify the exact name of typewriters from the warp buttons in-game, as a YAML array.
@@ -89,8 +77,9 @@ class AllowMissableLocations(Choice):
     False: (Default) Will place items so they are not permanently missable.
     This severely limits where progression can be to prevent softlocking of any kind. 
     Will also remove progression for others if multiworld.
+    Enemies will not have progression at all if this is off, as well.
     
-    True: Progression can be placed in locations that can be missed if story progresses too far, you've been warned.
+    True: Progression can be placed in locations that can be missed if story progresses too far, including enemies, which may require you to reload an older save or restart if you skip any.. You've been warned.
 
     NOTE - This option only affects *YOUR* game. Your progression can still be in someone else's if they have this option enabled."""
     display_name = "Allow Missable Locations"
@@ -102,9 +91,9 @@ class AllowProgressionInNEST(Choice):
     """While next to impossible to skip anything in NEST, it would certainly feel bad if someone's Morph Ball ended up there.
     This option will completely remove progression from being at your end game, including the ten locations in Nemesis Final Fight. 
 
-    False: (Default) Will place useful/junk items into NEST, the non-randomized locations will stay the same.
+    False: (Default) Will place useful/junk items into NEST, including enemies, the non-randomized locations will stay the same.
 
-    True: Progression can be placed in NEST, remind everyone it was your fault when you are holding them hostage."""
+    True: Progression can be placed in NEST, including enemies there, remind everyone it was your fault when you are holding them hostage."""
     display_name = "Allow Progression in NEST"
     option_false = 0
     option_true = 1
@@ -137,6 +126,61 @@ class AmmoPackModifier(Choice):
     option_only_one = 6
     option_random_by_type = 7
     option_random_always = 8
+	
+	
+class AddEnemyKillsAsLocations(Choice):
+    """When enabled, multiworld items are also placed on the enemies in your world. Killing those enemies gives the item.
+
+    Currently only supports Assisted / Standard difficulty / Hard difficulty.
+
+    The available options are:
+
+    None: You decided not to add hundreds of enemy locations to your world. Probably a good idea tbh.
+    All: Every interactable enemy from the Subway Station to the end of the game now gives an item when killed.
+    """
+    display_name = "Add Enemy Kills as Locations"
+    option_none = 0
+    option_all = 1
+    default = 0
+
+class EnemyKillItems(Choice):
+    """While the Add Enemy Kills as Locations option is enabled, this option specifies the items that each kill adds to the item pool.
+
+    (The items you choose here are STILL randomized. It's just that enemies don't drop items at all in RE3R, so we have to ask what they should have *vanilla*.)
+
+    The available options are:
+
+    Mixed: A mix of combat-related items (healing, ammo, subweapons, gunpowder) is added to the pool in equal parts.
+    All Weapon Related: Like Mixed, but healing items are not added. Ammo, subweapons, and gunpowder are still added. 
+    Ammo Related: Like Mixed, but healing items and subweapons are not added. Ammo and gunpowder are still added.
+    Ammo: Only ammo is added.
+    Gunpowder: Only gunpowder is added.
+    Healing: Only healing items are added.
+    Trash: Only filler items are added.
+    """
+    display_name = "Enemy Item Kills"
+    option_mixed = 0
+    option_all_weapon_related = 1
+    option_ammo_related = 2
+    option_ammo = 3
+    option_gunpowder = 4
+    option_healing = 5
+    default = 3
+	
+class LocalWeapons(Choice):
+    """Enabling this ensures that all of your weapons are placed in your own world instead of other players' worlds."""
+    display_name = "Local Weapons"
+    option_false = 0
+    option_true = 1
+    default = 0
+
+class DoubleWeapons(Choice):
+    """Enabling this ensures that a duplicate of each weapon is in the item pool, increasing the chances that you find more weapons early. 
+    If a weapon already has a duplicate (like the shotgun / grenade launcher), this option doesn't add any additional copies of that weapon."""
+    display_name = "Double Weapons"
+    option_false = 0
+    option_true = 1
+    default = 0
 	
 class OopsAllGrenades(Choice):
     """Enabling this swaps all weapons, ammo, subweapons, upgrades and explosive/gunpowder to Grenades.
@@ -225,6 +269,22 @@ class AddParasiteTraps(Choice):
     option_true = 1
     default = 0
 
+
+class EnemyBehavior(Choice):
+    """Changes how aggressively enemies behave.
+
+    Off: Vanilla enemy behavior.
+    Doors: Enemies can interact with more doors and pursue more aggressively.
+    Unsafe Rooms: Includes Doors, and safe rooms are no longer treated as safe for normal enemies.
+    Full: Includes Unsafe Rooms, and Nemesis is also allowed through more doors.
+    """
+    display_name = "Enemy Behavior"
+    option_off = 0
+    option_doors = 1
+    option_unsafe_rooms = 2
+    option_full = 3
+    default = 0
+
 # making this mixin so we can keep actual game options separate from AP core options that we want enabled
 # not sure why this isn't a mixin in core atm, anyways
 @dataclass
@@ -233,8 +293,6 @@ class StartInventoryFromPoolMixin:
 
 @dataclass
 class RE3ROptions(StartInventoryFromPoolMixin, DeathLinkMixin, PerGameCommonOptions):
-    character: Character
-    scenario: Scenario
     difficulty: Difficulty
     unlocked_typewriters: UnlockedTypewriters
     starting_hip_pouches: StartingHipPouches
@@ -242,8 +300,12 @@ class RE3ROptions(StartInventoryFromPoolMixin, DeathLinkMixin, PerGameCommonOpti
     early_fire_hose: EarlyFireHose
     extra_sewer_items: ExtraSewerItems
     allow_missable_locations: AllowMissableLocations
+    add_enemy_kills_as_locations: AddEnemyKillsAsLocations
+    enemy_kill_items: EnemyKillItems
     allow_progression_in_nest: AllowProgressionInNEST
     ammo_pack_modifier: AmmoPackModifier
+    local_weapons: LocalWeapons
+    double_weapons: DoubleWeapons
     oops_all_grenades: OopsAllGrenades
     oops_all_handguns: OopsAllHandguns
     no_first_aid_spray: NoFirstAidSpray
@@ -253,3 +315,4 @@ class RE3ROptions(StartInventoryFromPoolMixin, DeathLinkMixin, PerGameCommonOpti
     add_damage_traps: AddDamageTraps
     damage_trap_count: DamageTrapCount
     damage_traps_can_kill: DamageTrapsCanKill
+    enemy_behavior: EnemyBehavior

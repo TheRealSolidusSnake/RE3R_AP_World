@@ -202,9 +202,6 @@
         "parent_object": "sm73_203",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common/NIGHTMARE",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -228,9 +225,6 @@
         "parent_object": "ItemPositions_sm41_410",
         "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0202_0/gimmick_Escape",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -253,9 +247,6 @@
         "parent_object": "ItemPositions_sm41_410",
         "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0202_0/gimmick_Escape",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -274,9 +265,6 @@
         "parent_object": "sm70_001_onlyUnlimited",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -289,16 +277,13 @@
     },
     {
         "name": "Desk 1",
-        "region": "Darkroom",
+        "region": "Dark Room",
         "original_item": "Assault Rifle Ammo",
         "condition": {},
         "item_object": "sm70_102",
         "parent_object": "sm70_102_onlyUnlimited",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -311,16 +296,13 @@
     },
     {
         "name": "Desk 2",
-        "region": "Darkroom",
+        "region": "Dark Room",
         "original_item": "Handgun Ammo",
         "condition": {},
         "item_object": "sm70_100",
         "parent_object": "sm70_100_onlyUnlimited",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -345,10 +327,6 @@
         "parent_object": "Attache_MagnumBullet",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -365,10 +343,6 @@
         "parent_object": "st04_0302_sm70_205_01",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0302",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -385,10 +359,6 @@
         "parent_object": "sm70_100_onlyUnlimited",
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/01_LockerRoom",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Override Key",
             "Culture Sample"
         ]
@@ -402,10 +372,6 @@
         "parent_object": "sm70_205_onlyUnlimited",
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Culture Sample"
         ]
     },
@@ -418,10 +384,6 @@
         "parent_object": "sm70_208_onlyUnlimited",
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Culture Sample"
         ]
     },
@@ -434,10 +396,6 @@
         "parent_object": "sm70_208_Acase",
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Culture Sample"
         ]
     },
@@ -450,10 +408,6 @@
         "parent_object": "sm70_002_onlyUnlimited",
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Culture Sample"
         ]
     },
@@ -466,10 +420,6 @@
         "parent_object": "sm70_206_onlyUnlimited",
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/ES_Common/02_Laboratory",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Culture Sample"
         ]
     },
@@ -559,7 +509,7 @@
     },
     {
         "name": "By Doors",
-        "region": "Makeshift Sickroom",
+        "region": "Makeshift Sick Room",
         "remove": true
     },
     {
@@ -589,7 +539,7 @@
     },
     {
         "name": "Supply Cart",
-        "region": "Sickroom",
+        "region": "Sick Room",
         "remove": true
     },
     {

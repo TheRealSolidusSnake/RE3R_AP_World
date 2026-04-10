@@ -11,7 +11,6 @@
             "Red Jewel",
             "Blue Jewel",
             "Green Jewel",
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -37,7 +36,6 @@
             "Red Jewel",
             "Blue Jewel",
             "Green Jewel",
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -63,7 +61,6 @@
             "Red Jewel",
             "Blue Jewel",
             "Green Jewel",
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -89,7 +86,6 @@
             "Red Jewel",
             "Blue Jewel",
             "Green Jewel",
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -115,7 +111,6 @@
             "Red Jewel",
             "Blue Jewel",
             "Green Jewel",
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -145,7 +140,6 @@
             "Red Jewel",
             "Blue Jewel",
             "Green Jewel",
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -172,7 +166,6 @@
         "parent_object": "ItemPositions_Jewel_1",
         "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/JewelryBox",
         "allow_item": [
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -200,7 +193,6 @@
         "parent_object": "ItemPositions_Jewel_2",
         "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/JewelryBox",
         "allow_item": [
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -229,7 +221,6 @@
         "parent_object": "ItemPositions_Jewel_3",
         "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/Item/ES_S03_1000/I_100_Subway_Area/JewelryBox",
         "allow_item": [
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -1071,7 +1062,7 @@
     },
     {
         "name": "Near Ladder",
-        "region": "East Tunnel",
+        "region": "South East Tunnel",
         "original_item": "Hand Grenade",
         "condition": {},
         "item_object": "WP6200",
@@ -1143,7 +1134,7 @@
     },
     {
         "name": "Before Laboratory",
-        "region": "West Tunnel",
+        "region": "Central Tunnel",
         "original_item": "Flame Rounds",
         "condition": {},
         "item_object": "sm70_108",
@@ -1287,7 +1278,7 @@
     },
     {
         "name": "Breakable Box",
-        "region": "Northwest Tunnel",
+        "region": "North West Tunnel",
         "original_item": "Explosive B",
         "condition": {},
         "item_object": "sm70_208",
@@ -1311,7 +1302,7 @@
     },
     {
         "name": "By Corpse",
-        "region": "Northwest Tunnel",
+        "region": "North West Tunnel",
         "original_item": "Shotgun Shells",
         "condition": {},
         "item_object": "sm70_101",
@@ -1885,9 +1876,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0301_0/gimmick_Escape",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -1907,9 +1895,6 @@
         "parent_object": "sm70_002_0301",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -1929,9 +1914,6 @@
         "parent_object": "sm73_203",
         "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -1951,9 +1933,6 @@
         "parent_object": "sm70_001",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -1973,9 +1952,6 @@
         "parent_object": "sm70_100",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -1999,9 +1975,6 @@
         "parent_object": "ItemPositions_sm41_410",
         "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0202_0/gimmick_Escape",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2020,9 +1993,6 @@
         "parent_object": "WP6300",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2042,9 +2012,6 @@
         "parent_object": "sm70_102",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2064,9 +2031,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0217_0/gimmick_Escape",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2090,9 +2054,7 @@
         "parent_object": "ItemPositions_sm41_410",
         "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0208_0/gimmick_Escape",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
+            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2111,9 +2073,6 @@
         "parent_object": "ItemPositions_NormalLocker_1FW_OfficeW",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2133,9 +2092,6 @@
         "parent_object": "sm70_100",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2155,9 +2111,6 @@
         "parent_object": "",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/1FW/WestOffice/IronSafe_1FWOffice",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2177,9 +2130,6 @@
         "parent_object": "sm70_002_WestOffice",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2199,9 +2149,6 @@
         "parent_object": "sm70_100",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2214,16 +2161,13 @@
     },
     {
         "name": "Right Locker",
-        "region": "Darkroom",
+        "region": "Dark Room",
         "original_item": "Red Herb",
         "condition": {},
         "item_object": "sm70_002",
         "parent_object": "ItemPositions_NormalLocker_1FW3DarkRoom",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2236,16 +2180,13 @@
     },
     {
         "name": "Left Locker",
-        "region": "Darkroom",
+        "region": "Dark Room",
         "original_item": "Assault Rifle Ammo",
         "condition": {},
         "item_object": "sm70_102",
         "parent_object": "ItemPositions_NormalLocker_1FW1DarkRoom",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2265,9 +2206,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_RPD/Environments/st02_0603_0/gimmick_Escape",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2287,9 +2225,6 @@
         "parent_object": "ItemPositions_NormalLocker_3FWCorridor",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2329,9 +2264,6 @@
         "parent_object": "sm70_102_Asshell_Locker106",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/1FW/hokanko/HokankoLocker/HokankoItems",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2347,10 +2279,19 @@
         "region": "Safety Deposit Room",
         "original_item": "Hand Grenade",
         "condition": {},
-        "item_object": "RPD_Mess_ItemGet_109",
-        "parent_object": "",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Scenario/S02_0400/ES_S02_0400/Msg",
-        "randomized": 0
+        "item_object": "WP6200",
+        "parent_object": "WP6200Grenade_Locker109",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/1FW/hokanko/HokankoLocker/HokankoItems",
+        "allow_item": [
+            "ID Card",
+            "Locker Room Key",
+            "Tape Player",
+            "Fuse 1",
+            "Fuse 2",
+            "Fuse 3",
+            "Override Key",
+            "Culture Sample"
+        ]
     },
     {
         "name": "On Cabinet",
@@ -2361,9 +2302,6 @@
         "parent_object": "sm70_001_Hokanko",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2383,9 +2321,6 @@
         "parent_object": "sm70_001",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2405,9 +2340,6 @@
         "parent_object": "ItemPositions_NormalLocker_2FW2Corridor",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/ES_common/GeneralPurposeGimmicks/OpenLocker",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
             "ID Card",
             "Locker Room Key",
             "Tape Player",
@@ -2457,7 +2389,7 @@
     },
     {
         "name": "Breakable Box",
-        "region": "West Hallway 2F",
+        "region": "STARS Hallway",
         "original_item": "Handgun Ammo",
         "condition": {},
         "item_object": "sm70_100",
@@ -2466,7 +2398,7 @@
     },
     {
         "name": "By Linen Room",
-        "region": "West Hallway 2F",
+        "region": "STARS Hallway",
         "original_item": "Assault Rifle Ammo",
         "condition": {},
         "item_object": "sm70_102",
@@ -2522,10 +2454,6 @@
         "parent_object": "sm70_105mine",
         "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item/SafeRoom",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2544,10 +2472,6 @@
         "parent_object": "sm70_105mine",
         "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item/SafeRoom",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2566,10 +2490,6 @@
         "parent_object": "sm70_000_spray",
         "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item/SafeRoom",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2588,10 +2508,6 @@
         "parent_object": "WP1000",
         "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2610,10 +2526,6 @@
         "parent_object": "WP4100",
         "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2632,10 +2544,6 @@
         "parent_object": "sm70_100hgsell",
         "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2654,10 +2562,6 @@
         "parent_object": "sm70_001gherb",
         "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2676,10 +2580,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_ClockTower/Environments/st03_0804_0/gimmick",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -2781,7 +2681,7 @@
     },
     {
         "name": "By Doors",
-        "region": "Makeshift Sickroom",
+        "region": "Makeshift Sick Room",
         "original_item": "Assault Rifle Ammo",
         "condition": {},
         "item_object": "sm70_102",
@@ -2916,7 +2816,7 @@
     },
     {
         "name": "Overbed Table 1",
-        "region": "Sickroom",
+        "region": "Sick Room",
         "original_item": "Green Herb",
         "condition": {},
         "item_object": "sm70_001",
@@ -2925,7 +2825,7 @@
     },
     {
         "name": "Overbed Table 2",
-        "region": "Sickroom",
+        "region": "Sick Room",
         "original_item": "Assault Rifle Ammo",
         "condition": {},
         "item_object": "sm70_102",
@@ -2934,7 +2834,7 @@
     },
     {
         "name": "Supply Cart",
-        "region": "Sickroom",
+        "region": "Sick Room",
         "original_item": "Hand Grenade",
         "condition": {},
         "item_object": "WP6200",
@@ -3167,7 +3067,7 @@
     },
     {
         "name": "Tyrell-FAS",
-        "region": "Makeshift Sickroom",
+        "region": "Makeshift Sick Room",
         "original_item": "First Aid Spray",
         "condition": {
             "items": [
@@ -3194,22 +3094,18 @@
     },
     {
         "name": "By Doors 1",
-        "region": "Makeshift Sickroom",
+        "region": "Makeshift Sick Room",
         "original_item": "G18",
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "WP0100",
         "parent_object": "G18_Handgun",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Wepon",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3219,22 +3115,18 @@
     },
     {
         "name": "By Doors 2",
-        "region": "Makeshift Sickroom",
+        "region": "Makeshift Sick Room",
         "original_item": "Flash Grenade",
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_100",
         "parent_object": "st04_0101_sm70_100_01",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Item/st04_0101",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3243,23 +3135,19 @@
         ]
     },
     {
-        "name": "Breakable Box near Sickroom",
+        "name": "Breakable Box near Sick Room",
         "region": "Hospital Lobby",
         "original_item": "Handgun Ammo",
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_100",
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_Hospital/Environments/st04_0102_0/gimmick_Hospital2",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3274,17 +3162,13 @@
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_100",
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_Hospital/Environments/st04_0102_0/gimmick_Hospital2",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3299,17 +3183,13 @@
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_103",
         "parent_object": "KeyAttache_MagnumBullet",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3324,17 +3204,13 @@
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_106",
         "parent_object": "KeyLocker_GrenadeLauncherBullet",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3349,17 +3225,13 @@
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_208",
         "parent_object": "st04_0109_sm70_208_00",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Item/st04_0109",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3374,17 +3246,13 @@
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_101",
         "parent_object": "KeyLocker_Spray",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3399,17 +3267,13 @@
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "WP3000",
         "parent_object": "Attache_Magnum",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3424,17 +3288,13 @@
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_103",
         "parent_object": "KeyLocker_MagnumBullet",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3449,17 +3309,13 @@
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_207",
         "parent_object": "st04_0209_sm70_207_00",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Item/st04_0209",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3469,22 +3325,18 @@
     },
     {
         "name": "On Walker",
-        "region": "Sickroom",
+        "region": "Sick Room",
         "original_item": "High-Grade Gunpowder",
         "condition": {
             "items": [
                 "Lock Pick",
-                "Vaccine Sample"
+                "Detonator"
             ]
         },
         "item_object": "sm70_206",
         "parent_object": "st04_0210_sm70_206_00",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/ES_common_Hospital2/Item/st04_0210",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3501,10 +3353,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0301_1/gimmick",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3521,10 +3369,6 @@
         "parent_object": "st04_0302_sm70_208_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0302",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3541,10 +3385,6 @@
         "parent_object": "st04_0402_sm70_001_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0402",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3561,10 +3401,6 @@
         "parent_object": "st04_0406_sm74_200_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0406",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3581,10 +3417,6 @@
         "parent_object": "st04_0403_02_sm70_207_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_02",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3601,10 +3433,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3621,10 +3449,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3641,10 +3465,6 @@
         "parent_object": "st04_0403_01_sm70_100_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3661,10 +3481,6 @@
         "parent_object": "st04_0403_01_sm70_002_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3681,10 +3497,6 @@
         "parent_object": "st04_0403_01_sm71_102",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3701,10 +3513,6 @@
         "parent_object": "st04_0403_02_sm70_100_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_02",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3721,10 +3529,6 @@
         "parent_object": "st04_0403_02_sm70_206_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_02",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3741,10 +3545,6 @@
         "parent_object": "st04_0403_01_sm70_205_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3761,10 +3561,6 @@
         "parent_object": "st04_0403_01_sm70_205_01",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3781,10 +3577,6 @@
         "parent_object": "st04_0403_01_sm70_206_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3801,10 +3593,6 @@
         "parent_object": "st04_0403_01_sm70_001_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3821,10 +3609,6 @@
         "parent_object": "st04_0403_01_sm70_205_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0403_01",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3841,10 +3625,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick/FuseBox",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3861,10 +3641,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick/FuseBox",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3881,10 +3657,6 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_Hospital2/Environments/st04_0403_1/gimmick/FuseBox",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3901,10 +3673,6 @@
         "parent_object": "st04_0404_sm70_101_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0404",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -3921,10 +3689,6 @@
         "parent_object": "st04_0405_sm71_300_00",
         "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/Item/common/ES_common/st04_0405",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Override Key",
             "Culture Sample"
         ]
@@ -4084,7 +3848,7 @@
     },
     {
         "name": "Case by Zombie",
-        "region": "Server Room",
+        "region": "Server Room 1F",
         "original_item": "First Aid Spray",
         "condition": {},
         "item_object": "sm70_000",
@@ -4199,7 +3963,7 @@
     },
     {
         "name": "Attache Case",
-        "region": "Disposable Chamber Walkway",
+        "region": "Disposal Chamber Walkway",
         "original_item": "Flame Rounds",
         "condition": {},
         "item_object": "sm70_108",
@@ -4208,7 +3972,7 @@
     },
     {
         "name": "Amongst Waste 1",
-        "region": "Disposable Chamber",
+        "region": "Disposal Chamber",
         "original_item": "Handgun Ammo",
         "condition": {},
         "item_object": "sm70_100",
@@ -4217,7 +3981,7 @@
     },
     {
         "name": "Amongst Waste 2",
-        "region": "Disposable Chamber",
+        "region": "Disposal Chamber",
         "original_item": "First Aid Spray",
         "condition": {},
         "item_object": "sm70_000",
@@ -4226,7 +3990,7 @@
     },
     {
         "name": "Amongst Waste 3",
-        "region": "Disposable Chamber",
+        "region": "Disposal Chamber",
         "original_item": "Handgun Ammo",
         "condition": {},
         "item_object": "sm70_100",
@@ -4235,7 +3999,7 @@
     },
     {
         "name": "Amongst Waste 4",
-        "region": "Disposable Chamber",
+        "region": "Disposal Chamber",
         "original_item": "Shotgun Shells",
         "condition": {},
         "item_object": "sm70_101",

@@ -11,7 +11,6 @@
             "Red Jewel",
             "Blue Jewel",
             "Green Jewel",
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -37,7 +36,6 @@
             "Red Jewel",
             "Blue Jewel",
             "Green Jewel",
-            "Fire Hose",
             "Lock Pick",
             "Battery Pack",
             "Kendo Gate Key",
@@ -179,10 +177,6 @@
         "parent_object": "sm73_203",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/ES_common/NIGHTMARE",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Locker Room Key",
             "Tape Player",
             "Fuse 1",
@@ -206,10 +200,6 @@
         "parent_object": "Attache_MagnumBullet",
         "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/Item/common/LockerItem",
         "allow_item": [
-            "Red Jewel",
-            "Blue Jewel",
-            "Green Jewel",
-            "ID Card",
             "Fuse 1",
             "Fuse 2",
             "Fuse 3",
@@ -248,7 +238,7 @@
     },
     {
         "name": "Supply Cart",
-        "region": "Sickroom",
+        "region": "Sick Room",
         "remove": true
     },
     {

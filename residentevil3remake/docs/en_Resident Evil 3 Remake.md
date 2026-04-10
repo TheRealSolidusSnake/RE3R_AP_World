@@ -1,27 +1,106 @@
-# Resident Evil 3 Remake
+# \# Resident Evil 3 Remake
 
-## Where is the options page?
+# 
 
-The [player options page for this game](../player-options) contains all the options you need to configure and export a
-config file.
+# \## Important / Read First
 
-## What does randomization do to this game?
+# 
 
-Most items/weapons/keys in the game have been shuffled around, and you may have to fight enemies with loadouts you'd
-previously be unaccustomed. 
+# \- \*\*Use teleports sparingly.\*\*
 
-Goal is stop Nikolai on the NEST Rooftop. You'll have to find the various keys needed scattered throughout the world/s 
-to make it through the story, beat Nemesis and get to the Rooftop for the final confrontation.   
+# \- Do \*\*not\*\* teleport to Downtown areas after fighting Nemesis at the \*\*Demolition Site\*\*.
 
-## When the player receives an item, what happens?
+# \- \*\*Do not switch save files\*\*, as doing so may result in lost items.
 
-When the player receives an item, a message will appear in the upper left corner of the screen. 
-This message may slightly differ depending on if you're in range of an item box.
+# \- \*\*Save often\*\*, especially after boss fights.
 
-## Will the DLC to get Bolt Cutters/Lock Pick early ruin my randomizer experience?
+# \- After completing a randomizer run, \*\*restart the game\*\* before starting another one.
 
-While I'm strongly against their use, to each their own. It'll remove nearly all backtracking if kept on.
-Feel free to disable it within your DLC manager of Steam if you don't want them. 
-You'll have to look up how to disable it on other platforms since I don't own them. 
-To note, the in-game purchaseable versions cannot be disabled and you'd have to delete your data to remove them.
+# 
+
+# ---
+
+# 
+
+# \## Options Page
+
+# 
+
+# All configuration for this world is handled through the \*\*Player Options\*\* page.
+
+# 
+
+# ---
+
+# 
+
+# \## Randomization Overview
+
+# 
+
+# This world randomizes the majority of \*\*items, weapons, and keys\*\* found throughout the game.
+
+# Players may be required to progress using unfamiliar equipment compared to a standard playthrough.
+
+# 
+
+# The victory condition is to \*\*stop Nikolai on the NEST Rooftop\*\*.
+
+# To reach this point, players must locate progression items scattered throughout, advance through the story and defeat Nemesis encounters along the way.
+
+# 
+
+# ---
+
+# 
+
+# \## Item Reception
+
+# 
+
+# When the player receives an item, a notification will appear in the \*\*upper-left corner of the screen\*\*.
+
+# The exact wording of this message may differ depending on whether the player is within range of an item box.
+
+# 
+
+# ---
+
+# 
+
+# \## Missable Locations
+
+# 
+
+# Due to the structure of the game, there are points of no return. Progressing past these points may cause certain locations — and the items within them — to become inaccessible.
+
+# 
+
+# \- When \*\*Allow Missable Locations\*\* is set to \*\*false\*\*, progression items will not be placed in missable locations. These locations may still contain useful items, junk, or traps.
+
+# \- When \*\*Allow Missable Locations\*\* is set to \*\*true\*\*, progression items \*can\* appear in missable locations. Enable this setting at your own risk as skipping items can result in having to restart from an earlier save.
+
+# 
+
+# ---
+
+# 
+
+# \## DLC Progression Items (Bolt Cutters / Lock Pick)
+
+# 
+
+# Use of the early-access DLC \*\*Bolt Cutters\*\* and \*\*Lock Pick\*\* is discouraged.
+
+# 
+
+# When enabled, these items significantly reduce backtracking and may bypass intended progression.
+
+# They can be disabled through Steam’s \*\*DLC Manager\*\*.
+
+# 
+
+# \- On other platforms (GamePass, GoG etc), disabling these items may require platform-specific steps.
+
+# \- The \*\*in-game purchasable\*\* versions of these items cannot be disabled. Removing them requires deleting save data.
 

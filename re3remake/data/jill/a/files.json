@@ -1,0 +1,522 @@
+[
+    {
+        "name": "UBCS Ammo Crafting Guide",
+        "region": "Subway Station",
+        "original_item": "UBCS Ammo Crafting Guide",
+        "condition": {},
+        "item_object": "File028",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/File/common/ES_common/st03_0307_0",
+        "file_id": "Mes_File_28"
+    },
+    {
+        "name": "Tabloid Front Page",
+        "region": "Subway Station",
+        "original_item": "Tabloid Front Page",
+        "condition": {},
+        "item_object": "File010",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/File/common/ES_common/st03_0201_0",
+        "file_id": "Mes_File_10"
+    },
+    {
+        "name": "UBCS Herb Field Manual",
+        "region": "Subway Station",
+        "original_item": "UBCS Herb Field Manual",
+        "condition": {},
+        "item_object": "File054",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/File/common/ES_common/st03_0201_0",
+        "file_id": "Mes_File_54"
+    },
+    {
+        "name": "Subway Employee's Memo",
+        "region": "Subway Office",
+        "original_item": "Subway Employee's Memo",
+        "condition": {},
+        "item_object": "File026",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0501_0",
+        "file_id": "Mes_File_26"
+    },
+    {
+        "name": "Kite Bros Railway Manual",
+        "region": "Subway Office",
+        "original_item": "Kite Bros Railway Manual",
+        "condition": {},
+        "item_object": "File027",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0501_0",
+        "file_id": "Mes_File_27"
+    },
+    {
+        "name": "Drugstore Owner's Journal",
+        "region": "Drugstore Storage",
+        "original_item": "Drugstore Owner's Journal",
+        "condition": {},
+        "item_object": "File008",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0232_0",
+        "file_id": "Mes_File_08"
+    },
+    {
+        "name": "Training Log",
+        "region": "Garage",
+        "original_item": "Training Log",
+        "condition": {},
+        "item_object": "File057",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0221_0",
+        "file_id": "Mes_File_57"
+    },
+    {
+        "name": "UBCS Suicide Note",
+        "region": "Back Alley",
+        "original_item": "UBCS Suicide Note",
+        "condition": {},
+        "item_object": "File011",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0223_0",
+        "file_id": "Mes_File_11"
+    },
+    {
+        "name": "Electrician's Notice",
+        "region": "Back Alley",
+        "original_item": "Electrician's Notice",
+        "condition": {},
+        "item_object": "File052",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0223_0",
+        "file_id": "Mes_File_52"
+    },
+    {
+        "name": "Fax from Substation Chief",
+        "region": "Substation",
+        "original_item": "Fax from Substation Chief",
+        "condition": {},
+        "item_object": "File023",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0404_0",
+        "file_id": "Mes_File_23"
+    },
+    {
+        "name": "Green Herbs: They Work!",
+        "region": "Outdoor Area",
+        "original_item": "Green Herbs: They Work!",
+        "condition": {},
+        "item_object": "File084",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0402_0",
+        "file_id": "Mes_File_84"
+    },
+    {
+        "name": "Substation Internal Memo",
+        "region": "Outdoor Area",
+        "original_item": "Substation Internal Memo",
+        "condition": {},
+        "item_object": "File044",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0402_0",
+        "file_id": "Mes_File_44"
+    },
+    {
+        "name": "Your Charlie Doll",
+        "region": "Toy Shop",
+        "original_item": "Your Charlie Doll",
+        "condition": {},
+        "item_object": "File075",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0235_0",
+        "file_id": "Mes_File_75"
+    },
+    {
+        "name": "Chad's Notes",
+        "region": "Power Maze",
+        "original_item": "Chad's Notes",
+        "condition": {},
+        "item_object": "File013",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0402_0",
+        "file_id": "Mes_File_13"
+    },
+    {
+        "name": "Increased Sewer Security",
+        "region": "Overpass",
+        "original_item": "Increased Sewer Security",
+        "condition": {},
+        "item_object": "File012",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0605_0",
+        "file_id": "Mes_File_12"
+    },
+    {
+        "name": "Research Assistant's Logs",
+        "region": "South Office",
+        "original_item": "Research Assistant's Logs",
+        "condition": {},
+        "item_object": "File060",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0609_0",
+        "file_id": "Mes_File_60"
+    },
+    {
+        "name": "Invoice from Gun Shop Kendo",
+        "region": "South Office",
+        "original_item": "Invoice from Gun Shop Kendo",
+        "condition": {},
+        "item_object": "File083",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0609_0",
+        "file_id": "Mes_File_83"
+    },
+    {
+        "name": "Sewer Worker's Notes",
+        "region": "North West Tunnel",
+        "original_item": "Sewer Worker's Notes",
+        "condition": {},
+        "item_object": "File024",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0613_0",
+        "file_id": "Mes_File_24"
+    },
+    {
+        "name": "A Love Letter?",
+        "region": "Sewer Laboratory",
+        "original_item": "A Love Letter?",
+        "condition": {},
+        "item_object": "File009",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0613_0",
+        "file_id": "Mes_File_09"
+    },
+    {
+        "name": "Notice of Demolition Delay",
+        "region": "Demolition Site Storage",
+        "original_item": "Notice of Demolition Delay",
+        "condition": {},
+        "item_object": "File056",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0704_0",
+        "file_id": "Mes_File_56"
+    },
+    {
+        "name": "Raccoon Times Reader's Column",
+        "region": "House",
+        "original_item": "Raccoon Times Reader's Column",
+        "condition": {},
+        "item_object": "File070",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_DownTown/LocationLevel_DownTown/LocationFsm_DownTown/S03_1000/ES_S03_1000/File/ES_S03_1000/st03_0108_0",
+        "file_id": "Mes_File_70"
+    },
+    {
+        "name": "Email Outbox",
+        "region": "East Courtyard",
+        "original_item": "Email Outbox",
+        "condition": {},
+        "item_object": "File46_SpynoMail",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/File/common/ES_common",
+        "file_id": "Mes_File_46"
+    },
+    {
+        "name": "ID Card Security Protocols",
+        "region": "RPD Reception",
+        "original_item": "ID Card Security Protocols",
+        "condition": {},
+        "item_object": "File29_ToolBox",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/File/common/ES_common",
+        "file_id": "Mes_File_29"
+    },
+    {
+        "name": "Sept. 20 Arrest Report",
+        "region": "West Office",
+        "original_item": "Sept. 20 Arrest Report",
+        "condition": {},
+        "item_object": "File47_KyojyutsuChosho",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/File/common/ES_common",
+        "file_id": "Mes_File_47"
+    },
+    {
+        "name": "Internal Memo",
+        "region": "Darkroom",
+        "original_item": "Internal Memo",
+        "condition": {},
+        "item_object": "File51_kinko numberB",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/File/common/ES_common",
+        "file_id": "Mes_File_51"
+    },
+    {
+        "name": "Note to a Friend",
+        "region": "Shower Room",
+        "original_item": "Note to a Friend",
+        "condition": {},
+        "item_object": "File14_LockerRoom",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/File/common/ES_common",
+        "file_id": "Mes_File_14"
+    },
+    {
+        "name": "3F Locker",
+        "region": "Safety Deposit Room",
+        "original_item": "3F Locker",
+        "condition": {},
+        "item_object": "File58_3Flocker",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/File/common/ES_common",
+        "file_id": "Mes_File_58"
+    },
+    {
+        "name": "Report on the Mansion Incident",
+        "region": "STARS Office",
+        "original_item": "Report on the Mansion Incident",
+        "condition": {},
+        "item_object": "File03_WesternStyleCase",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/File/common/ES_common",
+        "file_id": "Mes_File_03"
+    },
+    {
+        "name": "UBCS New Weaponry Notice",
+        "region": "Dilapidated Shelter",
+        "original_item": "UBCS New Weaponry Notice",
+        "condition": {},
+        "item_object": "File049",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item/File/st03_0802_0",
+        "file_id": "Mes_File_49"
+    },
+    {
+        "name": "Clock Tower Brochure",
+        "region": "Promenade",
+        "original_item": "Clock Tower Brochure",
+        "condition": {},
+        "item_object": "File053",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_ClockTower/LocationLevel_ClockTower/Item/File/st03_0804_0",
+        "file_id": "Mes_File_53"
+    },
+    {
+        "name": "Spencer Memorial Pamphlet",
+        "region": "Hospital Reception",
+        "original_item": "Spencer Memorial Pamphlet",
+        "condition": {},
+        "item_object": "file031",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/File/common",
+        "file_id": "Mes_File_31"
+    },
+    {
+        "name": "Nurse's Journal: Sept. 25",
+        "region": "Laboratory Reception",
+        "original_item": "Nurse's Journal: Sept. 25",
+        "condition": {},
+        "item_object": "file032",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/File/common",
+        "file_id": "Mes_File_32"
+    },
+    {
+        "name": "Nurse's Journal: Sept. 27",
+        "region": "Records Room",
+        "original_item": "Nurse's Journal: Sept. 27",
+        "condition": {},
+        "item_object": "file033",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/File/common",
+        "file_id": "Mes_File_33"
+    },
+    {
+        "name": "Nurse's Journal: Sept. 29",
+        "region": "Staff Room",
+        "original_item": "Nurse's Journal: Sept. 29",
+        "condition": {},
+        "item_object": "file034",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/File/common",
+        "file_id": "Mes_File_34"
+    },
+    {
+        "name": "Memos from Administration",
+        "region": "Staff Room",
+        "original_item": "Memos from Administration",
+        "condition": {},
+        "item_object": "file039",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/File/common",
+        "file_id": "Mes_File_39"
+    },
+    {
+        "name": "Note about a Tape Recording",
+        "region": "Nurse Station",
+        "original_item": "Note about a Tape Recording",
+        "condition": {},
+        "item_object": "file030",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/File/common",
+        "file_id": "Mes_File_30"
+    },
+    {
+        "name": "Banquet Invitation",
+        "region": "Research Laboratory",
+        "original_item": "Banquet Invitation",
+        "condition": {},
+        "item_object": "file035",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/File/common",
+        "file_id": "Mes_File_35"
+    },
+    {
+        "name": "Email from Nathaniel Bard",
+        "region": "Research Laboratory",
+        "original_item": "Email from Nathaniel Bard",
+        "condition": {},
+        "item_object": "file068",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/File/common",
+        "file_id": "Mes_File_68"
+    },
+    {
+        "name": "RE: Lost Items",
+        "region": "Operating Room",
+        "original_item": "RE: Lost Items",
+        "condition": {},
+        "item_object": "file038",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital/LocationLevel_Hospital/File/common",
+        "file_id": "Mes_File_38"
+    },
+    {
+        "name": "Elevator Notice",
+        "region": "Shipping Office",
+        "original_item": "Elevator Notice",
+        "condition": {},
+        "item_object": "file079",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/File/common/ES_common",
+        "file_id": "Mes_File_79"
+    },
+    {
+        "name": "Employee Memo",
+        "region": "Small Storage Room",
+        "original_item": "Employee Memo",
+        "condition": {},
+        "item_object": "file066",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/File/common/ES_common",
+        "file_id": "Mes_File_66"
+    },
+    {
+        "name": "Unfinished Activity Log",
+        "region": "Surveillance Room",
+        "original_item": "Unfinished Activity Log",
+        "condition": {},
+        "item_object": "file043",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Hospital2/LocationLevel_Hospital2/File/common/ES_common",
+        "file_id": "Mes_File_43"
+    },
+    {
+        "name": "NEST 2 Employee Regulations",
+        "region": "Laboratory Storage",
+        "original_item": "NEST 2 Employee Regulations",
+        "condition": {},
+        "item_object": "File15",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_15"
+    },
+    {
+        "name": "Isaac Graves' Diary",
+        "region": "Laboratory Hallway 2F",
+        "original_item": "Isaac Graves' Diary",
+        "condition": {},
+        "item_object": "File18",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_18"
+    },
+    {
+        "name": "Essay on Vaccine Synthesis",
+        "region": "Experiment Room",
+        "original_item": "Essay on Vaccine Synthesis",
+        "condition": {},
+        "item_object": "File16",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_16"
+    },
+    {
+        "name": "Shipping Notice",
+        "region": "Experiment Storage",
+        "original_item": "Shipping Notice",
+        "condition": {},
+        "item_object": "File74",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_74"
+    },
+    {
+        "name": "Weaponry Authorization Request",
+        "region": "Lab 1",
+        "original_item": "Weaponry Authorization Request",
+        "condition": {},
+        "item_object": "File67",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_67"
+    },
+    {
+        "name": "Scientist's Dying Message",
+        "region": "Server Room 2F",
+        "original_item": "Scientist's Dying Message",
+        "condition": {},
+        "item_object": "File76",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_76"
+    },
+    {
+        "name": "Expression of Concern",
+        "region": "Incubation Lab",
+        "original_item": "Expression of Concern",
+        "condition": {},
+        "item_object": "File19",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_19"
+    },
+    {
+        "name": "Disposal Center",
+        "region": "Worker's Break Room",
+        "original_item": "Disposal Center",
+        "condition": {},
+        "item_object": "File17",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_17"
+    },
+    {
+        "name": "Weapon Spec Sheet",
+        "region": "Staff Break Room",
+        "original_item": "Weapon Spec Sheet",
+        "condition": {},
+        "item_object": "File20",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_20"
+    },
+    {
+        "name": "Suspicious Contract Memo",
+        "region": "Weapons Testing Area",
+        "original_item": "Suspicious Contract Memo",
+        "condition": {},
+        "item_object": "File77",
+        "parent_object": "",
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/File",
+        "file_id": "Mes_File_77"
+    }
+]

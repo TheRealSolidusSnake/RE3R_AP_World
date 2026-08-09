@@ -1,0 +1,910 @@
+[
+  {
+    "type": "Key",
+    "name": "Fire Hose",
+    "decimal": "181",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Bolt Cutters",
+    "decimal": "152",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Lock Pick",
+    "decimal": "151",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Battery Pack",
+    "decimal": "186",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Kendo Gate Key",
+    "decimal": "182",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Safety Deposit Key",
+    "decimal": "162",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+  {
+    "type": "Key",
+    "name": "Battery",
+    "decimal": "161",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+  {
+    "type": "Key",
+    "name": "Hospital ID Card",
+    "decimal": "211",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+  {
+    "type": "Key",
+    "name": "Cassette Tape",
+    "decimal": "213",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+  {
+    "type": "Key",
+    "name": "Tape Player",
+    "decimal": "214",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+  {
+    "type": "Key",
+    "name": "Vaccine Sample",
+    "decimal": "215",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+  {
+    "type": "Key",
+    "name": "Electronic Gadget",
+    "decimal": "165",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+  {
+    "type": "Key",
+    "name": "Detonator",
+    "decimal": "217",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+  {
+    "type": "Key",
+    "name": "Locker Room Key",
+    "decimal": "218",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+  {
+    "type": "Key",
+    "name": "Fuse 1",
+    "decimal": "224",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Fuse 2",
+    "decimal": "223",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Fuse 3",
+    "decimal": "222",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Override Key",
+    "decimal": "232",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Culture Sample",
+    "decimal": "234",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Liquid-Filled Test Tube",
+    "decimal": "235",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Key",
+    "name": "Vaccine",
+    "decimal": "233",
+    "count": 1,
+    "progression": 1
+  },
+
+  {
+    "type": "Gating",
+    "name": "Green Jewel",
+    "decimal": "187",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Gating",
+    "name": "Blue Jewel",
+    "decimal": "188",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Gating",
+    "name": "Red Jewel",
+    "decimal": "189",
+    "count": 1,
+    "progression": 1
+  },
+  {
+    "type": "Gating",
+    "name": "ID Card",
+    "decimal": "164",
+    "count": 1,
+    "progression": 1,
+    "owner": "carlos"
+  },
+
+  {
+    "type": "Recovery",
+    "name": "First Aid Spray",
+    "decimal": "1",
+    "count": 1,
+    "progression": 0,
+    "owner": "shared"
+  },
+  {
+    "type": "Recovery",
+    "name": "Green Herb",
+    "decimal": "2",
+    "count": 1,
+    "progression": 0,
+    "owner": "shared"
+  },
+  {
+    "type": "Recovery",
+    "name": "Red Herb",
+    "decimal": "3",
+    "count": 1,
+    "progression": 0,
+    "owner": "shared"
+  },
+
+  {
+    "type": "Crafting",
+    "name": "Gunpowder",
+    "decimal": "61",
+    "count": 1,
+    "progression": 0,
+    "owner": "shared"
+  },
+  {
+    "type": "Crafting",
+    "name": "High-Grade Gunpowder",
+    "decimal": "62",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Crafting",
+    "name": "Explosive A",
+    "decimal": "63",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Crafting",
+    "name": "Explosive B",
+    "decimal": "64",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "type": "Consumable",
+    "name": "Hip Pouch",
+    "decimal": "261",
+    "count": 1,
+    "progression": 0,
+    "owner": "shared"
+  },
+
+  {
+    "type": "Weapon",
+    "name": "G19",
+    "decimal": "1",
+    "count": 10,
+    "progression": 0,
+    "ammo": "Handgun Ammo"
+  },
+  {
+    "type": "Weapon",
+    "name": "G18",
+    "decimal": "2",
+    "count": 33,
+    "progression": 0,
+    "ammo": "Handgun Ammo"
+  },
+  {
+    "type": "Weapon",
+    "name": "M3 Shotgun",
+    "decimal": "11",
+    "count": 4,
+    "progression": 0,
+    "ammo": "Shotgun Shells"
+  },
+  {
+    "type": "Weapon",
+    "name": "Assault Rifle",
+    "decimal": "21",
+    "count": 32,
+    "progression": 0,
+    "ammo": "Assault Rifle Ammo",
+    "owner": "carlos"
+  },
+  {
+    "type": "Weapon",
+    "name": "MAG",
+    "decimal": "31",
+    "count": 8,
+    "progression": 0,
+    "ammo": "MAG Ammo"
+  },
+  {
+    "type": "Weapon",
+    "name": "MGL Grenade Launcher",
+    "decimal": "42",
+    "count": 6,
+    "progression": 0,
+    "ammo": "Explosive Rounds"
+  },
+
+  {
+    "type": "Subweapon",
+    "name": "Hand Grenade",
+    "decimal": "65",
+    "count": 1,
+    "progression": 0,
+    "owner": "shared"
+  },
+  {
+    "type": "Subweapon",
+    "name": "Flash Grenade",
+    "decimal": "66",
+    "count": 1,
+    "progression": 0,
+    "owner": "shared"
+  },
+
+  {
+    "type": "Upgrade",
+    "name": "Dot Sight - G19",
+    "decimal": "77",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Extended Mag - G19",
+    "decimal": "78",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Moderator - G19",
+    "decimal": "76",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Tactical Stock - M3",
+    "decimal": "92",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Semi-Auto Barrel - M3",
+    "decimal": "91",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Shell Holder - M3",
+    "decimal": "93",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Scope - Assault Rifle",
+    "decimal": "96",
+    "count": 1,
+    "progression": 0,
+    "owner": "carlos"
+  },
+  {
+    "type": "Upgrade",
+    "name": "Dual Magazine - Assault Rifle",
+    "decimal": "97",
+    "count": 1,
+    "progression": 0,
+    "owner": "carlos"
+  },
+  {
+    "type": "Upgrade",
+    "name": "Tactical Grip - Assault Rifle",
+    "decimal": "98",
+    "count": 1,
+    "progression": 0,
+    "owner": "carlos"
+  },
+  {
+    "type": "Upgrade",
+    "name": "Extended Barrel - MAG",
+    "decimal": "101",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Supply Case - Shotgun Shells",
+    "decimal": "313",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Upgrade",
+    "name": "Supply Case - Flame Rounds",
+    "decimal": "315",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "type": "Ammo",
+    "name": "Handgun Ammo",
+    "decimal": "31",
+    "count": 10,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Shotgun Shells",
+    "decimal": "32",
+    "count": 5,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Assault Rifle Ammo",
+    "decimal": "33",
+    "count": 40,
+    "progression": 0,
+    "owner": "carlos"
+  },
+  {
+    "type": "Ammo",
+    "name": "MAG Ammo",
+    "decimal": "34",
+    "count": 5,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Mine Rounds",
+    "decimal": "36",
+    "count": 3,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Explosive Rounds",
+    "decimal": "37",
+    "count": 3,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Acid Rounds",
+    "decimal": "38",
+    "count": 3,
+    "progression": 0
+  },
+  {
+    "type": "Ammo",
+    "name": "Flame Rounds",
+    "decimal": "39",
+    "count": 3,
+    "progression": 0
+  },
+
+  {
+    "type": "Trap",
+    "name": "Damage Trap",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Trap",
+    "name": "Parasite Trap",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "Trap",
+    "name": "Puke Trap",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "type": "File",
+    "name": "UBCS Ammo Crafting Guide",
+    "file_id": "Mes_File_28",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Tabloid Front Page",
+    "file_id": "Mes_File_10",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "UBCS Herb Field Manual",
+    "file_id": "Mes_File_54",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Subway Employee's Memo",
+    "file_id": "Mes_File_26",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Kite Bros Railway Manual",
+    "file_id": "Mes_File_27",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Drugstore Owner's Journal",
+    "file_id": "Mes_File_08",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Training Log",
+    "file_id": "Mes_File_57",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "UBCS Suicide Note",
+    "file_id": "Mes_File_11",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Electrician's Notice",
+    "file_id": "Mes_File_52",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Fax from Substation Chief",
+    "file_id": "Mes_File_23",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Green Herbs: They Work!",
+    "file_id": "Mes_File_84",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Substation Internal Memo",
+    "file_id": "Mes_File_44",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Your Charlie Doll",
+    "file_id": "Mes_File_75",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Chad's Notes",
+    "file_id": "Mes_File_13",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Increased Sewer Security",
+    "file_id": "Mes_File_12",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Research Assistant's Logs",
+    "file_id": "Mes_File_60",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Invoice from Gun Shop Kendo",
+    "file_id": "Mes_File_83",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Sewer Worker's Notes",
+    "file_id": "Mes_File_24",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "A Love Letter?",
+    "file_id": "Mes_File_09",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Notice of Demolition Delay",
+    "file_id": "Mes_File_56",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Raccoon Times Reader's Column",
+    "file_id": "Mes_File_70",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Email Outbox",
+    "file_id": "Mes_File_46",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "ID Card Security Protocols",
+    "file_id": "Mes_File_29",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Sept. 20 Arrest Report",
+    "file_id": "Mes_File_47",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Internal Memo",
+    "file_id": "Mes_File_51",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Note to a Friend",
+    "file_id": "Mes_File_14",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "3F Locker",
+    "file_id": "Mes_File_58",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Report on the Mansion Incident",
+    "file_id": "Mes_File_03",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "UBCS New Weaponry Notice",
+    "file_id": "Mes_File_49",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Clock Tower Brochure",
+    "file_id": "Mes_File_53",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Spencer Memorial Pamphlet",
+    "file_id": "Mes_File_31",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Nurse's Journal: Sept. 25",
+    "file_id": "Mes_File_32",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Nurse's Journal: Sept. 27",
+    "file_id": "Mes_File_33",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Nurse's Journal: Sept. 29",
+    "file_id": "Mes_File_34",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Memos from Administration",
+    "file_id": "Mes_File_39",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Note about a Tape Recording",
+    "file_id": "Mes_File_30",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Banquet Invitation",
+    "file_id": "Mes_File_35",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Email from Nathaniel Bard",
+    "file_id": "Mes_File_68",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "RE: Lost Items",
+    "file_id": "Mes_File_38",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Elevator Notice",
+    "file_id": "Mes_File_79",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Employee Memo",
+    "file_id": "Mes_File_66",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Unfinished Activity Log",
+    "file_id": "Mes_File_43",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "NEST 2 Employee Regulations",
+    "file_id": "Mes_File_15",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Isaac Graves' Diary",
+    "file_id": "Mes_File_18",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Essay on Vaccine Synthesis",
+    "file_id": "Mes_File_16",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Shipping Notice",
+    "file_id": "Mes_File_74",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Weaponry Authorization Request",
+    "file_id": "Mes_File_67",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Scientist's Dying Message",
+    "file_id": "Mes_File_76",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Expression of Concern",
+    "file_id": "Mes_File_19",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Disposal Center",
+    "file_id": "Mes_File_17",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Weapon Spec Sheet",
+    "file_id": "Mes_File_20",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+  {
+    "type": "File",
+    "name": "Suspicious Contract Memo",
+    "file_id": "Mes_File_77",
+    "decimal": "",
+    "count": 1,
+    "progression": 0
+  },
+
+  {
+    "name": "Victory",
+    "id": null,
+    "progression": 1
+  }
+]

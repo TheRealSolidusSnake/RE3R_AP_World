@@ -1,0 +1,2030 @@
+[
+    {
+        "name": "Wandering Zombie at Subway Entrance",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_1stZombie",
+        "parent_object": "4-135-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "6a5bfa29-e697-4dd6-ba51-3d9799d05b03"
+    },
+    {
+        "name": "Male Zombie Striped Shirt",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Eat",
+        "parent_object": "4-139-0-4-ID005",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Male Zombie Checkered Shirt",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-139-0-4-ID011",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Female Zombie Green Shirt",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0400_Ilde",
+        "parent_object": "4-139-0-5-ID014",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Female Zombie Grey Shirt",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0400_Idle",
+        "parent_object": "4-139-0-5-ID010",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Second Male Zombie Checkered Shirt",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-139-0-4-ID011",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Capped Zombie bursting through gate",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Door",
+        "parent_object": "4-140-0-4-ID021",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "High Visibility Zombie",
+        "region": "Main Avenue",
+        "original_item": "",
+        "item_object": "em0500_EvSet_CHAPTER1_TYPE_B",
+        "parent_object": "4-141-0-6-ID006",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "9d829621-f012-4e2d-9da1-08f99c1e2b38"
+    },
+    {
+        "name": "Overweight Zombie",
+        "region": "Main Avenue",
+        "original_item": "",
+        "item_object": "em0500_EvSet_CHAPTER1_TYPE_A",
+        "parent_object": "4-141-0-6-ID003",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "42c7c635-420c-45ca-8157-173d71c8dc40"
+    },
+    {
+        "name": "Checkered Shirt Zombie",
+        "region": "Main Avenue",
+        "original_item": "",
+        "item_object": "em0300_EvSet_CHAPTER3_FENCE",
+        "parent_object": "4-141-0-4-ID014",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "b7afccec-6faa-4756-b975-fd33f00b55de"
+    },
+    {
+        "name": "First Zombie in the circle",
+        "region": "Shopping Plaza",
+        "original_item": "",
+        "item_object": "em0300_FakeDead_1",
+        "parent_object": "4-144-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Second Zombie in the circle",
+        "region": "Shopping Plaza",
+        "original_item": "",
+        "item_object": "em0300_FakeDead_2",
+        "parent_object": "4-144-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Third Zombie in the circle",
+        "region": "Shopping Plaza",
+        "original_item": "",
+        "item_object": "em0300_FakeDead_3",
+        "parent_object": "4-144-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Fourth Zombie in the circle",
+        "region": "Shopping Plaza",
+        "original_item": "",
+        "item_object": "em0300_FakeDead_4",
+        "parent_object": "4-144-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Fifth Zombie in the circle",
+        "region": "Shopping Plaza",
+        "original_item": "",
+        "item_object": "em0300_FakeDead_5",
+        "parent_object": "4-144-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Sixth Zombie in the circle",
+        "region": "Shopping Plaza",
+        "original_item": "",
+        "item_object": "em0300_FakeDead_0",
+        "parent_object": "4-144-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Male Zombie on Rooftop",
+        "region": "Building Rooftop",
+        "original_item": "",
+        "item_object": "em0300",
+        "parent_object": "4-146-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "9ea7a15c-afaf-466f-ba72-dd67400c9719"
+    },
+    {
+        "name": "Female Zombie on Rooftop",
+        "region": "Building Rooftop",
+        "original_item": "",
+        "item_object": "em0400",
+        "parent_object": "4-146-0-5-ID012",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "4e9cb939-3903-4939-82ae-32421e63e964"
+    },
+    {
+        "name": "Drugstore Jumpscare Zombie",
+        "region": "Drugstore Storage",
+        "original_item": "",
+        "item_object": "em0400_Idle",
+        "parent_object": "4-166-0-5-ID006",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Zombie at bottom of stairs",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-149-0-4-ID021",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Ne-A Parasite Zombie at bottom of stairs",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300_Idle_Shieki",
+        "parent_object": "4-149-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Female Zombie from under the car",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0400_FromUnderCar",
+        "parent_object": "4-149-0-5-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "53b3b0a2-e817-4e96-9194-6f5485608339"
+    },
+    {
+        "name": "High Visibility Zombie outside Pharmacy",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0500_FakeDead",
+        "parent_object": "4-149-0-6-ID005",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "9a1fe823-dd46-4235-bf0f-59c6909cf29b"
+    },
+    {
+        "name": "Zombie trying to leave Donut Shop",
+        "region": "Donut Shop",
+        "original_item": "",
+        "item_object": "em0300_Door",
+        "parent_object": "4-145-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Zombie playing dead in Side Alley",
+        "region": "Side Alley",
+        "original_item": "",
+        "item_object": "em0300_DeadIdle",
+        "parent_object": "4-153-0-4-ID021",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Zombie playing dead in Drugstore Storage",
+        "region": "Drugstore Storage",
+        "original_item": "",
+        "item_object": "em0500_Idle",
+        "parent_object": "4-165-0-6-ID003",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Bolt Cutters"
+            ]
+        },
+        "object_guid": "c06c1157-e967-4ccb-9c36-dbbfc66ae2cf"
+    },
+    {
+        "name": "Zombie with cap by cage",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300_FakeDead",
+        "parent_object": "4-152-0-4-ID021",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "619a9514-cbfe-4357-86ad-d9ffa2c84fbb"
+    },
+    {
+        "name": "Female Zombie by barrel",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0400_DeadIdle",
+        "parent_object": "4-152-0-5-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "981302f9-f59c-461c-9be4-4ce37c61935b"
+    },
+    {
+        "name": "Zombie at the gate",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300_Knock",
+        "parent_object": "4-152-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "31295642-4f4d-48b0-8973-ab4d29685fc4"
+    },
+    {
+        "name": "Checkered Shirt Zombie",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-151-0-4-ID014",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "95e04725-bccb-40e9-9c0c-a89cdfb12f20"
+    },
+    {
+        "name": "Patrol Car Zombie",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300",
+        "parent_object": "4-152-0-4-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "60628998-9ffe-42e0-b2c7-d5ceb74dc43a"
+    },
+    {
+        "name": "Zombie with cap by fire",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-149-0-4-ID021",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "a78452f0-2322-45df-8393-07ca3cb94733"
+    },
+    {
+        "name": "Zombie having a firelit meal",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300_Eat",
+        "parent_object": "4-149-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "d5edd67b-90b9-4e4c-ac1d-e414179f62dc"
+    },
+    {
+        "name": "First Zombie Dog",
+        "region": "Back Alley",
+        "original_item": "",
+        "item_object": "em4000",
+        "parent_object": "4-158-0-18-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "0cf5e207-4ecc-4375-8ea2-7d3363011a3d"
+    },
+    {
+        "name": "Second Zombie Dog",
+        "region": "Back Alley",
+        "original_item": "",
+        "item_object": "em4000",
+        "parent_object": "4-158-0-18-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "cc00d48c-2315-482a-ab8f-f42cb6f31a3b"
+    },
+    {
+        "name": "Female Zombie on the left",
+        "region": "Substation",
+        "original_item": "",
+        "item_object": "em0400_Idle",
+        "parent_object": "4-199-0-5-ID006",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "da26fdfc-19ff-4ecf-93a2-6f03db4e9b25"
+    },
+    {
+        "name": "Female Zombie on the right",
+        "region": "Substation",
+        "original_item": "",
+        "item_object": "em0400_Idle",
+        "parent_object": "4-199-0-5-ID012",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "f7089eab-aae1-4231-bf43-a131d797b8e6"
+    },
+    {
+        "name": "High Visibility Zombie upstairs",
+        "region": "Substation",
+        "original_item": "",
+        "item_object": "em0500_Idle",
+        "parent_object": "4-199-0-6-ID006",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "b655c85d-5e95-4465-b974-422c483a2357"
+    },
+    {
+        "name": "Red Shirt Zombie during Nemesis Chase",
+        "region": "Back Alley",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-158-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "High Visibility Zombie during Nemesis Chase",
+        "region": "Back Alley",
+        "original_item": "",
+        "item_object": "em0500_Idle",
+        "parent_object": "4-156-0-6-ID004",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Cop Zombie during Nemesis Chase",
+        "region": "Back Alley",
+        "original_item": "",
+        "item_object": "em0300_Idle_GroupB",
+        "parent_object": "4-156-0-4-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "4e811f21-939d-4215-ba01-a8f46a2be9d9"
+    },
+    {
+        "name": "Female Zombie during Nemesis Chase",
+        "region": "Back Alley",
+        "original_item": "",
+        "item_object": "em0400_Idle_GroupB",
+        "parent_object": "4-156-0-5-ID006",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "6c61a6ff-87a2-4feb-802d-1881b15c610c"
+    },
+    {
+        "name": "SWAT Zombie during Nemesis Chase",
+        "region": "Back Alley",
+        "original_item": "",
+        "item_object": "em0300_Door",
+        "parent_object": "4-156-0-4-ID401",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Zombie at the car",
+        "region": "Main Avenue",
+        "original_item": "",
+        "item_object": "em0300_knock",
+        "parent_object": "4-142-0-4-ID014",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "e48518c6-3de3-4e96-bce9-f757456f45e3"
+    },
+    {
+        "name": "Female Zombie",
+        "region": "Main Avenue",
+        "original_item": "",
+        "item_object": "em0400_Idle",
+        "parent_object": "4-141-0-5-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "b4b6bf8f-2d36-4711-be10-277e784e0df6"
+    },
+    {
+        "name": "SWAT Zombie",
+        "region": "Main Avenue",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-141-0-4-ID401",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "f8af34bf-7993-4729-9415-06c18f8827a7"
+    },
+    {
+        "name": "High Visibility Zombie during Nemesis Chase",
+        "region": "Main Avenue",
+        "original_item": "",
+        "item_object": "em0500_Idle",
+        "parent_object": "4-141-0-6-ID005",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "db5de464-5046-4d6b-9fa7-0bb85fcef414"
+    },
+    {
+        "name": "Overweight Zombie",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0500_Idle",
+        "parent_object": "4-151-0-6-ID008",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "cf8d5999-f1cf-4c7a-92de-7233ee17ba3d"
+    },
+    {
+        "name": "Skinny Zombie",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-151-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "4ee7a910-d059-4008-a3b8-8c494839f20d"
+    },
+    {
+        "name": "Ne-A Parasite Zombie inside Subway Office",
+        "region": "Subway Office",
+        "original_item": "",
+        "item_object": "em0300_1st_Shieki",
+        "parent_object": "4-203-0-4-ID014",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "24827385-d837-4ca7-8759-621721da5a5d"
+    },
+    {
+        "name": "Ne-A Parasite Zombie outside Subway Office",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "test_em0300_Shieki_01",
+        "parent_object": "4-149-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "c5a5e985-7cb4-435b-9221-2c557a89e63a"
+    },
+    {
+        "name": "Ne-A Parasite on stairs",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "test_em0300_Shieki",
+        "parent_object": "4-149-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Raining Ne-A Parasite 1",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300",
+        "parent_object": "4-152-0-4-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Raining Ne-A Parasite 2",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300",
+        "parent_object": "4-152-0-4-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Raining Ne-A Parasite 3",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300",
+        "parent_object": "4-152-0-4-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Raining Ne-A Parasite 4",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300",
+        "parent_object": "4-152-0-4-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Raining Ne-A Parasite 5",
+        "region": "Business Street",
+        "original_item": "",
+        "item_object": "em0300",
+        "parent_object": "4-152-0-4-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Ne-A Parasite Zombie on stairs",
+        "region": "Shopping Plaza",
+        "original_item": "",
+        "item_object": "em0300",
+        "parent_object": "4-143-0-4-ID014",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "8931b76b-33fd-4260-92ee-97ccd9aa76f5"
+    },
+    {
+        "name": "Raining Fire Zombie",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Fall_Burn",
+        "parent_object": "4-139-0-4-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Zombie banging the shutter",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Knock",
+        "parent_object": "4-136-0-4-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "a7253c3f-6df9-4a3a-8524-96d79fdca685"
+    },
+    {
+        "name": "TODO Name Me",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-136-0-4-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        },
+        "object_guid": "ed1b6fb4-5dee-4943-ae89-0048fe1a456d"
+    },
+    {
+        "name": "Raining Cop Zombie 1",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Fall",
+        "parent_object": "4-139-0-4-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Raining Cop Zombie 2",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Fall",
+        "parent_object": "4-139-0-4-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Raining Cop Zombie 3",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Fall",
+        "parent_object": "4-139-0-4-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Ne-A Parasite outside Subway Station",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Idle_Shieki_0",
+        "parent_object": "4-135-0-4-ID014",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Second Ne-A Parasite outside Subway Station",
+        "region": "South Avenue",
+        "original_item": "",
+        "item_object": "em0300_Idle_Shieki_1",
+        "parent_object": "4-135-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Fire Hose",
+                "Bolt Cutters",
+                "Lock Pick"
+            ]
+        }
+    },
+    {
+        "name": "Raining Ne-A Parasite 1 in Central Tunnel",
+        "region": "Central Tunnel",
+        "original_item": "",
+        "item_object": "em0300_Fall",
+        "parent_object": "4-215-0-4-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Raining Ne-A Parasite 2 in Central Tunnel",
+        "region": "Central Tunnel",
+        "original_item": "",
+        "item_object": "em0300_Fall",
+        "parent_object": "4-215-0-4-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Hunter Gamma under the waterfall",
+        "region": "Central Tunnel",
+        "original_item": "",
+        "item_object": "em3400",
+        "parent_object": "4-215-0-16-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "055a4b17-4706-4097-a701-9a92a9abf49b"
+    },
+    {
+        "name": "Hunter Gamma from the west pipe",
+        "region": "Central Tunnel",
+        "original_item": "",
+        "item_object": "em3400",
+        "parent_object": "4-217-0-16-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "9b733358-f3e0-4adc-956e-00756dd72d02"
+    },
+    {
+        "name": "Hunter Gamma from the south pipe",
+        "region": "South East Tunnel",
+        "original_item": "",
+        "item_object": "em3400",
+        "parent_object": "4-213-0-16-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "7bf8723e-c29b-4a0d-80c1-bf9c1aeb1ab3"
+    },
+    {
+        "name": "Female Zombie",
+        "region": "Demolition Site 2nd Floor",
+        "original_item": "",
+        "item_object": "em0400_2F",
+        "parent_object": "4-227-0-5-ID006",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "5aa96829-6e86-461c-961b-55a16cd78af8"
+    },
+    {
+        "name": "High Visibility Zombie",
+        "region": "Demolition Site 2nd Floor",
+        "original_item": "",
+        "item_object": "em0500_2F",
+        "parent_object": "4-227-0-6-ID006",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "9c7e1127-a850-47a3-9b30-4b2c2637b087"
+    },
+    {
+        "name": "Zombie by the stairs",
+        "region": "Demolition Site 2nd Floor",
+        "original_item": "",
+        "item_object": "em0300_2F",
+        "parent_object": "4-227-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "8fad8466-293a-44e2-ae29-553166f6579a"
+    },
+    {
+        "name": "Hot Stuff Nemesis",
+        "region": "Demolition Site Roof",
+        "original_item": "",
+        "item_object": "em9000_Boss_Flamethrower",
+        "parent_object": "4-230-0-23-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "60f00069-ab6a-471d-bc4e-3d7675c6348a"
+    },
+    {
+        "name": "Crawling Ne-A Parasite",
+        "region": "Outside Gun Shop",
+        "original_item": "",
+        "item_object": "em0500_Loitering",
+        "parent_object": "4-122-0-6-ID005",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Female Zombie by the ramp",
+        "region": "Outside Gun Shop",
+        "original_item": "",
+        "item_object": "em0400_Loitering",
+        "parent_object": "4-122-0-5-ID006",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "9f066595-e424-45f9-91ac-a65d8d51b3f0"
+    },
+    {
+        "name": "Male Zombie by the APC",
+        "region": "Outside Gun Shop",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-122-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "3a8efa7e-ce60-4813-939a-053b93456b3a"
+    },
+    {
+        "name": "Male Zombie by the Restaurant",
+        "region": "Outside Gun Shop",
+        "original_item": "",
+        "item_object": "em0500_Idle",
+        "parent_object": "4-122-0-6-ID008",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "41163fbc-d94c-49d0-bf54-672cf4438f30"
+    },
+    {
+        "name": "Female Zombie having a snack",
+        "region": "Outside Gun Shop",
+        "original_item": "",
+        "item_object": "em0400_FakeDead",
+        "parent_object": "4-122-0-5-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "d9658f09-478a-496b-a323-c3f93374eb71"
+    },
+    {
+        "name": "Ne-A Parasite by Kendos Gunshop",
+        "region": "Outside Gun Shop",
+        "original_item": "",
+        "item_object": "em0400_Loitering",
+        "parent_object": "4-122-0-5-ID012",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Ne-A Parasite dropping in",
+        "region": "Outside Gun Shop",
+        "original_item": "",
+        "item_object": "em0300_Fall",
+        "parent_object": "4-122-0-4-ID401",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Zombie next to Red Herb",
+        "region": "Small Alley",
+        "original_item": "",
+        "item_object": "em0300_Fakedead",
+        "parent_object": "4-125-0-4-ID014",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "b045f6d6-5158-4681-a4ba-542b1e0357be"
+    },
+    {
+        "name": "Ne-A Parasite Zombie around corner",
+        "region": "Small Alley",
+        "original_item": "",
+        "item_object": "em0300_Shieki",
+        "parent_object": "4-125-0-4-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "177a4f3e-405c-48c0-b50a-f69b0e39ba6e"
+    },
+    {
+        "name": "Ne-A Parasite Zombie inside house",
+        "region": "House",
+        "original_item": "",
+        "item_object": "em0300_Shieki_NoHands",
+        "parent_object": "4-126-0-4-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "8626a411-fde0-4198-abad-42348adbfde8"
+    },
+    {
+        "name": "Police Zombie during rocket chase",
+        "region": "Adjoining Alley",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-157-0-4-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "56a3c10f-4687-45c8-855d-fe77bfcb6667"
+    },
+    {
+        "name": "Ne-A Parasite during rocket chase",
+        "region": "Adjoining Alley",
+        "original_item": "",
+        "item_object": "em0300_Idle",
+        "parent_object": "4-157-0-4-ID001",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Flaming Ne-A Parasite during rocket chase",
+        "region": "Adjoining Alley",
+        "original_item": "",
+        "item_object": "em0400_Idle",
+        "parent_object": "4-156-0-5-ID006",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Zombie Brad",
+        "region": "RPD Entrance",
+        "original_item": "",
+        "item_object": "BradZmb",
+        "parent_object": "3-36-0-4-ID904",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "c63c95c8-8c3b-45c7-adbc-4b432b92d9f5"
+    },
+    {
+        "name": "Capped Zombie",
+        "region": "North West Hallway",
+        "original_item": "",
+        "item_object": "1FW_Loiter_1_c",
+        "parent_object": "3-50-0-4-ID021",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "c32ea18f-3e32-4ee6-bf1e-3f24cb97221f"
+    },
+    {
+        "name": "Zombie through the window behind you",
+        "region": "North West Hallway",
+        "original_item": "",
+        "item_object": "1FW_Window_0",
+        "parent_object": "3-50-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Jumpscare Licker",
+        "region": "North West Hallway",
+        "original_item": "",
+        "item_object": "1FW_Licker_Window",
+        "parent_object": "3-50-0-14-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Cop Zombie from Ops Room",
+        "region": "North West Hallway",
+        "original_item": "",
+        "item_object": "1FW_Loiter_3_Fat",
+        "parent_object": "3-41-0-6-ID201",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "5b5f31f1-853c-4c2e-a32d-b643d787b510"
+    },
+    {
+        "name": "Cop Zombie",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_Rush_0_g",
+        "parent_object": "3-52-0-5-ID200",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "4251c5b9-a9bf-4f20-b347-0e1567ef2874"
+    },
+    {
+        "name": "Overweight Zombie",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_Rush_1_f",
+        "parent_object": "3-52-0-6-ID008",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "cf27ce2a-3879-4874-b812-60ad2b57602e"
+    },
+    {
+        "name": "Resting Cop Zombie on the left",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_DeadIdle",
+        "parent_object": "3-52-0-4-ID210",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Second Resting Cop Zombie on the left",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_DeadIdle_f",
+        "parent_object": "3-52-0-6-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Dark clothed zombie from West Office",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_Rush_4_Door",
+        "parent_object": "3-52-0-4-ID204",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "0879df69-61f1-40a6-9ba1-fb7be31a1823"
+    },
+    {
+        "name": "Janitor Zombie",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_Rush_2",
+        "parent_object": "3-52-0-4-ID024",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "8a9d82a9-c2f5-4124-885a-3abcfe3d1ebd"
+    },
+    {
+        "name": "Red Checkered Shirt Zombie",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_Rush_5",
+        "parent_object": "3-52-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "bf85b5cb-12e1-41f8-8ede-0e890c2987cb"
+    },
+    {
+        "name": "Second Zombie from West Office",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_Rush_9",
+        "parent_object": "3-52-0-4-ID003",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Second Cop Zombie",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_Rush_6",
+        "parent_object": "3-52-0-4-ID213",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "aac6d478-ca4a-49f8-a06d-a732d23293ff"
+    },
+    {
+        "name": "Cop Zombie playing dead",
+        "region": "West Hallway 3F",
+        "original_item": "",
+        "item_object": "3FW_DeadIdle_0",
+        "parent_object": "3-90-0-4-ID215",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Safety Deposit Key"
+            ]
+        }
+    },
+    {
+        "name": "Cop Zombie prone between 2f and 3f",
+        "region": "West Hallway 3F",
+        "original_item": "",
+        "item_object": "3FW_DeadIdle_0",
+        "parent_object": "3-51-1-4-ID201",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Safety Deposit Key"
+            ]
+        },
+        "object_guid": "ca7b8bd0-173d-40df-a860-7ba5cf9be82d"
+    },
+    {
+        "name": "Licker Surprise",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_Licker_Fall",
+        "parent_object": "3-52-0-14-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Safety Deposit Key"
+            ]
+        },
+        "object_guid": "c77f9959-34b0-419e-83c7-56532bad714d"
+    },
+    {
+        "name": "Licker Surprise part two",
+        "region": "West Hallway 1F",
+        "original_item": "",
+        "item_object": "1FW_Licker_Fly",
+        "parent_object": "3-52-0-14-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Safety Deposit Key"
+            ]
+        }
+    },
+    {
+        "name": "Zombie trapped in Safety Deposit Room",
+        "region": "Safety Deposit Room",
+        "original_item": "",
+        "item_object": "1FW_FakeDead",
+        "parent_object": "3-42-0-4-ID003",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "8e1a5083-9fe3-4db3-b4a3-8c909fd4e07b"
+    },
+    {
+        "name": "Zombie Brad again?!",
+        "region": "Safety Deposit Room",
+        "original_item": "",
+        "item_object": "1FW_Brad",
+        "parent_object": "3-52-0-4-ID904",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Cop Zombie in the shower",
+        "region": "Shower Room",
+        "original_item": "",
+        "item_object": "Shower_Loiter_0",
+        "parent_object": "3-69-0-4-ID210",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "f1cb05b4-79cb-4d9d-9935-dca7052ebf3a",
+        "condition": {
+            "items": [
+            "Battery", "Safety Deposit Key", "Electronic Gadget"
+            ]
+        }
+    },
+    {
+        "name": "Shower Zombie",
+        "region": "Shower Room",
+        "original_item": "",
+        "item_object": "Shower_Loiter_3",
+        "parent_object": "3-69-0-4-ID009",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "b446279c-eb9f-45cc-b9a3-31a7a705a353",
+        "condition": {
+            "items": [
+            "Battery", "Safety Deposit Key", "Electronic Gadget"
+            ]
+        }
+    },
+    {
+        "name": "Female Cop Zombie",
+        "region": "Shower Room",
+        "original_item": "",
+        "item_object": "Shower_Loiter_1",
+        "parent_object": "3-69-0-5-ID200",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "94dbcc4a-df70-4a7a-a158-a1e915a6dd4e",
+        "condition": {
+            "items": [
+            "Battery", "Safety Deposit Key", "Electronic Gadget"
+            ]
+        }
+    },
+    {
+        "name": "Overweight Cop Zombie 2",
+        "region": "Shower Room",
+        "original_item": "",
+        "item_object": "Shower_Loiter_2",
+        "parent_object": "3-69-0-6-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "ac70bf62-ba26-45fc-8df2-22456203bb39",
+        "condition": {
+            "items": [
+            "Battery", "Safety Deposit Key", "Electronic Gadget"
+            ]
+        }
+    },
+    {
+        "name": "Overweight Cop Zombie 1",
+        "region": "Shower Room",
+        "original_item": "",
+        "item_object": "Shower_Later_0",
+        "parent_object": "3-69-0-6-ID201",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "71ba1be1-7383-4ba5-ba81-875e11f4384b",
+        "condition": {
+            "items": [
+            "Battery", "Safety Deposit Key", "Electronic Gadget"
+            ]
+        }
+    },
+    {
+        "name": "Female Red Checker Shirt Zombie",
+        "region": "Shower Room",
+        "original_item": "",
+        "item_object": "Shower_Later_1",
+        "parent_object": "3-69-0-5-ID005",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "1d69d0e3-a043-4f55-8423-c00737bb3c26",
+        "condition": {
+            "items": [
+            "Battery", "Safety Deposit Key", "Electronic Gadget"
+            ]
+        }
+    },
+    {
+        "name": "Pale Head in side room",
+        "region": "Shower Room",
+        "original_item": "",
+        "item_object": "Shower_Later_2",
+        "parent_object": "3-69-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+            "Battery", "Safety Deposit Key", "Electronic Gadget"
+            ]
+        }
+    },
+    {
+        "name": "Female Cop in side room",
+        "region": "Shower Room",
+        "original_item": "",
+        "item_object": "Shower_Later_3",
+        "parent_object": "3-69-0-5-ID202",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "a504a579-12f7-40bd-8cc8-8edc58e71662",
+        "condition": {
+            "items": [
+            "Battery", "Safety Deposit Key", "Electronic Gadget"
+            ]
+        }
+    },
+    {
+        "name": "Pale Head bursting through door",
+        "region": "Shower Room",
+        "original_item": "",
+        "item_object": "Shower_Door_0",
+        "parent_object": "3-79-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+            "Battery", "Safety Deposit Key", "Electronic Gadget"
+            ]
+        }
+    },
+    {
+        "name": "Licker Surprise, again",
+        "region": "STARS Hallway",
+        "original_item": "",
+        "item_object": "2FW_Licker_1",
+        "parent_object": "3-79-0-14-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "459aef60-f668-4a48-af1a-cab424c206b2"
+    },
+    {
+        "name": "Rushing Pale Head 1",
+        "region": "STARS Hallway",
+        "original_item": "",
+        "item_object": "2FW_Corridor_Idle_0",
+        "parent_object": "3-79-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Rushing Pale Head 2",
+        "region": "STARS Hallway",
+        "original_item": "",
+        "item_object": "2FW_Corridor_Idle_1",
+        "parent_object": "3-79-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Rushing Pale Head 3",
+        "region": "STARS Hallway",
+        "original_item": "",
+        "item_object": "2FW_Corridor_Idle_2",
+        "parent_object": "3-79-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Dark clothes Zombie playing dead on the left",
+        "region": "Exit Tunnel",
+        "original_item": "",
+        "item_object": "em0300_DeadIdle",
+        "parent_object": "5-239-0-4-ID025",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "High Visibility Zombie playing dead on the left",
+        "region": "Shelter Tunnels",
+        "original_item": "",
+        "item_object": "em0500_FakeDead",
+        "parent_object": "5-239-0-6-ID004",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Zombie snacking at the end of the corridor",
+        "region": "Shelter Tunnels",
+        "original_item": "",
+        "item_object": "em0300_Eat",
+        "parent_object": "5-239-0-4-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Janitor Zombie playing dead",
+        "region": "Shelter Tunnels",
+        "original_item": "",
+        "item_object": "em0300_FakeDead00",
+        "parent_object": "5-239-0-4-ID024",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Female Zombie playing dead",
+        "region": "Shelter Tunnels",
+        "original_item": "",
+        "item_object": "em0400_DeadIdle",
+        "parent_object": "5-239-0-5-ID003",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "a086209a-7f12-45a6-a361-9627f4488ee2"
+    },
+    {
+        "name": "Cop Zombie playing dead",
+        "region": "Shelter Tunnels",
+        "original_item": "",
+        "item_object": "em0300_FakeDead02",
+        "parent_object": "5-239-0-4-ID215",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Second Dark clothes Zombie playing dead",
+        "region": "Shelter Tunnels",
+        "original_item": "",
+        "item_object": "em0300_FakeDead01",
+        "parent_object": "5-239-0-4-ID008",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "083e9686-bf6c-4f0e-aaab-1cf36fdd9050"
+    },
+    {
+        "name": "Overweight crawling Zombie up the steps",
+        "region": "Shelter Tunnels",
+        "original_item": "",
+        "item_object": "em0500_Idle",
+        "parent_object": "5-239-0-6-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Cop Zombie up the steps",
+        "region": "Shelter Tunnels",
+        "original_item": "",
+        "item_object": "em0300_DeadIdle",
+        "parent_object": "5-239-0-4-ID214",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Nemesis Dog",
+        "region": "Plaza",
+        "original_item": "",
+        "item_object": "Em9400_ContextController",
+        "parent_object": "5-242-0-35-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "1cd1869a-ad0b-44ca-92c5-a525b2806e54"
+    },
+    {
+        "name": "Doctor Zombie in reception",
+        "region": "Hospital Reception",
+        "original_item": "",
+        "item_object": "ESC_1F_Reception02_Zombie_003",
+        "parent_object": "6-245-1-4-ID304",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "c4fed6fd-36da-4015-8a56-7bbc27cf9979"
+    },
+    {
+        "name": "Seated Cop Zombie",
+        "region": "Hospital Reception",
+        "original_item": "",
+        "item_object": "ESC_1F_Reception02_Zombie_002",
+        "parent_object": "6-245-0-4-ID203",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "97f27781-80ed-4ea6-b121-40bbc36e129e"
+    },
+    {
+        "name": "Reception Zombie",
+        "region": "Hospital Reception",
+        "original_item": "",
+        "item_object": "ESC_1F_Reception03_Zombie_001",
+        "parent_object": "6-245-0-4-ID203",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Reception Licker",
+        "region": "Hospital Reception",
+        "original_item": "",
+        "item_object": "ESC_1F_Reception03_Ricker_001",
+        "parent_object": "6-245-0-14-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Overweight Zombie from the left",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoom01_Zombie_004",
+        "parent_object": "6-249-0-6-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "74ea6ba9-ed89-4969-8661-5f68afd7e19c"
+    },
+    {
+        "name": "Doctor Zombie on the left",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoom01_Zombie_003",
+        "parent_object": "6-249-0-4-ID302",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "4ee0a9bd-e83c-4872-9026-548d84e4f5c0"
+    },
+    {
+        "name": "Zombie on the right",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoom01_Zombie_002",
+        "parent_object": "6-249-0-4-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "0ad8d9df-283c-49db-9a24-0237e5828df4"
+    },
+    {
+        "name": "Jumpscare Zombie Lady",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoom01_Zombie_001",
+        "parent_object": "6-249-0-5-ID015",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "4935e8a3-53a8-4df6-8fe9-80b2ad986d23"
+    },
+    {
+        "name": "Roof Doctor Zombie",
+        "region": "Main Corridor 2F",
+        "original_item": "",
+        "item_object": "ESC_2F_Veranda01_Zombie_001",
+        "parent_object": "6-263-0-4-ID304",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "First Zombie playing Dead",
+        "region": "Staff Room",
+        "original_item": "",
+        "item_object": "ESC_2F_StaffRoom03_Zombie_001",
+        "parent_object": "6-259-0-5-ID300",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "3ea8b797-3d70-4371-9525-31a00e99ea98"
+    },
+    {
+        "name": "Second Zombie playing Dead",
+        "region": "Staff Room",
+        "original_item": "",
+        "item_object": "ESC_2F_StaffRoom03_Zombie_002",
+        "parent_object": "6-259-0-4-ID301",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "dcb430d2-17c4-43e4-842a-37b119ee7bac"
+    },
+    {
+        "name": "Third Zombie playing Dead",
+        "region": "Staff Room",
+        "original_item": "",
+        "item_object": "ESC_2F_StaffRoom03_Zombie_003",
+        "parent_object": "6-259-0-4-ID300",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Nurse Station Licker",
+        "region": "Nurse Station",
+        "original_item": "",
+        "item_object": "ESC_2F_MultiFloorRoom03_Riker_001",
+        "parent_object": "6-260-0-14-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Cinematic Hunter Beta",
+        "region": "Staff Room",
+        "original_item": "",
+        "item_object": "ESC_SP02_HunterB_001",
+        "parent_object": "6-259-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Hospital ID Card"
+            ]
+        },
+        "object_guid": "99cf8d60-42c0-4346-ba6a-69568994c7e7"
+    },
+    {
+        "name": "Male Zombie from right door",
+        "region": "Nurse Station",
+        "original_item": "",
+        "item_object": "ESC_2F_MultiFloorRoom02_Zombie_003",
+        "parent_object": "6-265-0-4-ID025",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "02550db7-1c9b-42a0-a93b-bb086ce4c29c"
+    },
+    {
+        "name": "First Zombie from left door",
+        "region": "Nurse Station",
+        "original_item": "",
+        "item_object": "ESC_2F_MultiFloorRoom02_Zombie_001",
+        "parent_object": "6-265-0-4-ID020",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "dd08d840-efba-4ecf-8bd4-cfcb865275ac"
+    },
+    {
+        "name": "Second Zombie from left door",
+        "region": "Nurse Station",
+        "original_item": "",
+        "item_object": "ESC_2F_MultiFloorRoom02_Zombie_004",
+        "parent_object": "6-265-0-6-ID203",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "a6807594-8a61-4bd6-86e7-de3597e428cf"
+    },
+    {
+        "name": "Female Zombie playing dead",
+        "region": "Sick Room",
+        "original_item": "",
+        "item_object": "ESC_2F_MultiFloorRoom02_Zombie_005",
+        "parent_object": "6-265-0-5-ID014",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "52590f24-ad59-4e54-8ef9-e9cd893e0672"
+    },
+    {
+        "name": "Female Doctor Zombie",
+        "region": "Linen Room",
+        "original_item": "",
+        "item_object": "ESC_2F_RinenRoom03_Zombie_003",
+        "parent_object": "6-261-0-5-ID304",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "d43bcd8f-48d9-41af-86c6-cbdc54e6b2be"
+    },
+    {
+        "name": "Pale Head ambusher",
+        "region": "Observation Corridor",
+        "original_item": "",
+        "item_object": "ESC_2F_RinenRoom02_KaifukuZombie_001",
+        "parent_object": "6-262-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Hunter Beta in Treatment Room 1",
+        "region": "Treatment Room",
+        "original_item": "",
+        "item_object": "ESC_2F_RinenRoom01_HunterB_001",
+        "parent_object": "6-264-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "41b6d99e-6d3c-4fab-8afc-8b040486aea1"
+    },
+    {
+        "name": "Hunter Beta in Treatment Room 2",
+        "region": "Treatment Room",
+        "original_item": "",
+        "item_object": "ESC_2F_RinenRoom01_HunterB_002",
+        "parent_object": "6-264-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "4ef29586-f91f-4844-a19f-133146580a6d"
+    },
+    {
+        "name": "Female Doctor Zombie behind glass",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoom01_Zombie_004",
+        "parent_object": "6-249-0-6-ID002",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Cassette Tape"
+            ]
+        }
+    },
+    {
+        "name": "Loitering Female Doctor Zombie",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoom01_Zombie_005",
+        "parent_object": "6-249-1-5-ID302",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Cassette Tape"
+            ]
+        },
+        "object_guid": "8d5a9490-c4fb-41bb-bb8d-c46bf3dcc9ca"
+    },
+    {
+        "name": "High Visibility Zombie",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoomWindow03_Zombie_003",
+        "parent_object": "6-249-0-6-ID004",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Cassette Tape"
+            ]
+        },
+        "object_guid": "2aaf7490-6577-4baa-977b-3e5ad5370f67"
+    },
+    {
+        "name": "Dark Clothed Zombie behind glass",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoomWindow03_Zombie_004",
+        "parent_object": "6-249-0-4-ID007",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Cassette Tape"
+            ]
+        },
+        "object_guid": "67c2f315-8c26-4aa2-b69d-b85dcae8a892"
+    },
+    {
+        "name": "Striped Shirt Zombie behind glass",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoomWindow03_Zombie_001",
+        "parent_object": "6-249-0-4-ID005",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Cassette Tape"
+            ]
+        },
+        "object_guid": "6216bab0-e32d-458a-9e62-1582f62870e8"
+    },
+    {
+        "name": "Hunter Beta from the sky",
+        "region": "Laboratory Reception",
+        "original_item": "",
+        "item_object": "ESC_1F_BardRoom02_HunterB_001",
+        "parent_object": "6-263-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Vaccine Sample"
+            ]
+        },
+        "object_guid": "e9ba76db-38ec-4fcc-8784-a52b17e8ed8c"
+    },
+    {
+        "name": "Doctor Zombie through the glass",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_ErRoomWindow03_Zombie_002",
+        "parent_object": "6-249-0-5-ID300",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Detonator"
+            ]
+        },
+        "object_guid": "28e71fc9-48f0-427b-b4dc-aa32fc41deef"
+    },
+    {
+        "name": "Hunter Beta from the Operating Room",
+        "region": "Emergency Entrance",
+        "original_item": "",
+        "item_object": "ESC_1F_ChirurgyRoom02_HunterB_001",
+        "parent_object": "6-250-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Detonator"
+            ]
+        },
+        "object_guid": "7a0eb7ab-8784-4901-a15b-6c36fe453e86"
+    },
+    {
+        "name": "Zombie at the Locker",
+        "region": "Staff Room",
+        "original_item": "",
+        "item_object": "ESC_2F_StaffRoom02_Zombie_001",
+        "parent_object": "6-259-0-5-ID300",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Detonator"
+            ]
+        },
+        "object_guid": "ed0401f0-ac57-493f-9f5f-cbdabb6208ae"
+    },
+    {
+        "name": "Zombie playing Dead",
+        "region": "Staff Room",
+        "original_item": "",
+        "item_object": "ESC_2F_StaffRoom02_Zombie_002",
+        "parent_object": "6-259-0-4-ID301",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Detonator"
+            ]
+        },
+        "object_guid": "3ea8b797-3d70-4371-9525-31a00e99ea98"
+    },
+    {
+        "name": "Another Zombie playing Dead",
+        "region": "Staff Room",
+        "original_item": "",
+        "item_object": "ESC_2F_StaffRoom02_Zombie_003",
+        "parent_object": "6-259-0-4-ID300",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "condition": {
+            "items": [
+                "Detonator"
+            ]
+        },
+        "object_guid": "dcb430d2-17c4-43e4-842a-37b119ee7bac"
+    },
+    {
+        "name": "Pale Head before Loading Bay",
+        "region": "Walkway",
+        "original_item": "",
+        "item_object": "ESC_Aisle01_KaifukuZombie_001",
+        "parent_object": "14-292-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Pale Head airdrop",
+        "region": "Warehouse",
+        "original_item": "",
+        "item_object": "ESC_Shoukouki01_KaifukuZombie_001",
+        "parent_object": "14-296-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "2bbcf102-0b5b-46d5-bd67-3ea34a2f5b97"
+    },
+    {
+        "name": "Hunter Gamma in a container",
+        "region": "Warehouse",
+        "original_item": "",
+        "item_object": "ESC_Container03_HunterG_001",
+        "parent_object": "14-296-2-16-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Zombie in the dead end",
+        "region": "Warehouse",
+        "original_item": "",
+        "item_object": "ESC_1F_Warehouse01_Zombie_002",
+        "parent_object": "14-296-0-4-ID302",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "50b96b8d-b377-47f8-bc1a-ec077bf00b78"
+    },
+    {
+        "name": "First Zombie Dog in container",
+        "region": "Warehouse",
+        "original_item": "",
+        "item_object": "ESC_Container04_DogZombie_001",
+        "parent_object": "14-296-2-18-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Second Zombie Dog in container",
+        "region": "Warehouse",
+        "original_item": "",
+        "item_object": "ESC_Container04_DogZombie_002",
+        "parent_object": "14-296-2-18-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Third Zombie Dog in container",
+        "region": "Warehouse",
+        "original_item": "",
+        "item_object": "ESC_Container04_DogZombie_003",
+        "parent_object": "14-296-2-18-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Fourth Zombie Dog in container",
+        "region": "Warehouse",
+        "original_item": "",
+        "item_object": "ESC_Container04_DogZombie_004",
+        "parent_object": "14-296-2-18-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Hunter Gamma in container",
+        "region": "Warehouse",
+        "original_item": "",
+        "item_object": "ESC_Container01_HunterG_001",
+        "parent_object": "14-296-2-16-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "b473fa71-5b02-467e-a14e-077ba84fae40"
+    },
+    {
+        "name": "Doctor Zombie",
+        "region": "Small Storage Room",
+        "original_item": "",
+        "item_object": "ESC_2F_Room01_Zombie_001",
+        "parent_object": "14-297-0-4-ID301",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "0421ceb7-9e3e-4de7-a86d-caceaad66f70"
+    },
+    {
+        "name": "Pale Head",
+        "region": "Small Storage Room",
+        "original_item": "",
+        "item_object": "ESC_2F_Room01_KaifukuZombie_001",
+        "parent_object": "14-297-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "c706e640-9468-4f15-981f-0f7fea51ed48"
+    },
+    {
+        "name": "Cap Zombie",
+        "region": "Small Storage Room",
+        "original_item": "",
+        "item_object": "ESC_2F_Room01_Zombie_002",
+        "parent_object": "14-297-0-4-ID016",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "b3451414-f73c-493c-8241-99d89e779bec"
+    },
+    {
+        "name": "Doctor Zombie playing dead",
+        "region": "Laboratory Hallway 2F",
+        "original_item": "",
+        "item_object": "NM_Em0400_DeadIdle",
+        "parent_object": "13-307-0-5-ID300",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Pale Head rusher",
+        "region": "Laboratory Hallway 2F",
+        "original_item": "",
+        "item_object": "NM_Em8400_1stAttack",
+        "parent_object": "13-308-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Wandering Pale Head",
+        "region": "Experiment Storage",
+        "original_item": "",
+        "item_object": "Em8400_WaitAfterWalk",
+        "parent_object": "13-309-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "ccd397ce-1288-4dd2-8bc4-369ce9d243f6"
+    },
+    {
+        "name": "Dropping Doctor",
+        "region": "Experiment Storage",
+        "original_item": "",
+        "item_object": "NM_Em0300_Fall",
+        "parent_object": "13-309-0-4-ID304",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Crawling Pale Head",
+        "region": "Experiment Storage",
+        "original_item": "",
+        "item_object": "NM_Em8400_Crowl",
+        "parent_object": "13-309-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "ccd397ce-1288-4dd2-8bc4-369ce9d243f6"
+    },
+    {
+        "name": "Pale Head on the Stairs",
+        "region": "Experiment Storage",
+        "original_item": "",
+        "item_object": "NM_em8400_Slope_1",
+        "parent_object": "13-309-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Ne-A Parasite Pale Head",
+        "region": "Experiment Storage",
+        "original_item": "",
+        "item_object": "NM_Em8400_Shieki_Idle",
+        "parent_object": "13-309-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Resting Pale Head",
+        "region": "Server Room 2F",
+        "original_item": "",
+        "item_object": "NM_Em8400_DeadIdle_1",
+        "parent_object": "13-312-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Jumpscare Zombie in the Lab",
+        "region": "Lab 1",
+        "original_item": "",
+        "item_object": "NM_Em0400_LaboClawl_1",
+        "parent_object": "13-310-0-5-ID304",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Rushing Pale Head 1",
+        "region": "Incubation Lab",
+        "original_item": "",
+        "item_object": "NM_Em8400_Rush_1",
+        "parent_object": "13-313-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Ne-A Parasite 1",
+        "region": "Incubation Lab",
+        "original_item": "",
+        "item_object": "Em0300_Rush_2",
+        "parent_object": "13-313-0-4-ID400",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Ne-A Parasite 2",
+        "region": "Incubation Lab",
+        "original_item": "",
+        "item_object": "Em0300_Rush_4",
+        "parent_object": "13-313-0-4-ID401",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "Rushing Pale Head 2",
+        "region": "Incubation Lab",
+        "original_item": "",
+        "item_object": "Em8400_Rush_5",
+        "parent_object": "13-313-0-22-ID000",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy"
+    },
+    {
+        "name": "First Hunter Beta",
+        "region": "Bioweapon Incubation Room",
+        "original_item": "",
+        "item_object": "Em3300",
+        "parent_object": "13-314-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "remove_assisted": true,
+        "condition": {
+            "items": [
+                "Liquid-Filled Test Tube"
+            ]
+        },
+        "object_guid": "d7b31b3f-333e-495f-bb7c-540e0608594c"
+    },
+    {
+        "name": "Second Hunter Beta",
+        "region": "Bioweapon Incubation Room",
+        "original_item": "",
+        "item_object": "Em3300",
+        "parent_object": "13-314-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "remove_assisted": true,
+        "condition": {
+            "items": [
+                "Liquid-Filled Test Tube"
+            ]
+        },
+        "object_guid": "24f4f0ac-1343-42a3-af87-f98de8c1e4bc"
+    },
+    {
+        "name": "Third Hunter Beta",
+        "region": "Bioweapon Incubation Room",
+        "original_item": "",
+        "item_object": "Em3300",
+        "parent_object": "13-314-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "remove_assisted": true,
+        "condition": {
+            "items": [
+                "Liquid-Filled Test Tube"
+            ]
+        },
+        "object_guid": "87234dd6-86de-41a1-8528-5c438453b8a7"
+    },
+    {
+        "name": "Fourth Hunter Beta",
+        "region": "Bioweapon Incubation Room",
+        "original_item": "",
+        "item_object": "Em3300",
+        "parent_object": "13-314-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "remove_assisted": true,
+        "condition": {
+            "items": [
+                "Liquid-Filled Test Tube"
+            ]
+        }
+    },
+    {
+        "name": "Fifth Hunter Beta",
+        "region": "Bioweapon Incubation Room",
+        "original_item": "",
+        "item_object": "Em3300",
+        "parent_object": "13-314-0-15-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "remove_assisted": true,
+        "condition": {
+            "items": [
+                "Liquid-Filled Test Tube"
+            ]
+        }
+    },
+    {
+        "name": "Dog Nemesis Rematch",
+        "region": "Disposal Chamber",
+        "original_item": "",
+        "item_object": "Em9200_ContextController05",
+        "parent_object": "13-316-0-31-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "897d780d-2e52-45f9-a2e1-eaa572cf5564"
+    },
+    {
+        "name": "The Nemesis that just wont die",
+        "region": "Weapons Testing Area",
+        "original_item": "",
+        "item_object": "Em9300_ContextController",
+        "parent_object": "13-319-0-34-",
+        "folder_path": "RopewayManagers/TemporaryObjects/Enemy",
+        "object_guid": "3d8b0660-8b0c-4bab-8b35-6e049769249c"
+    }
+]

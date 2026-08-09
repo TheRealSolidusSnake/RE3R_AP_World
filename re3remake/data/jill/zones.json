@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Downtown"
+    },
+	{
+        "id": 2,
+        "name": "Sewer"
+    },
+	{
+        "id": 3,
+        "name": "RPD"
+    },
+	{
+        "id": 4,
+        "name": "Clock Tower"
+    },
+	{
+        "id": 5,
+        "name": "Hospital"
+    },
+	{
+        "id": 6,
+        "name": "NEST"
+    }
+]
